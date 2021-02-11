@@ -1,0 +1,37 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: Contact Us
+    url: /contact-us/
+  - title: About
+    url: /about/
+  - title: Energy Innovation 2021
+    url: /energy-innovation-2021/
+  - title: Projects Showcase
+    url: /projects-showcase/
+  - title: Archives
+    url: /archives/
+  - title: Newsroom
+    url: /newsroom/
+  - title: Contact Us
+    url: /contact-us/
+  - title: About
+    collection: about
+  - title: Energy Innovation 2021
+    collection: energy-innovation-2021
+  - title: Projects Showcase
+    collection: projects-showcase
+  - title: Archives
+    collection: archives
+  - title: Newsroom
+    collection: newsroom
+  - title: Contact Us
+    collection: contact-us
+  - title: Newsroom
+    resource_room: true
