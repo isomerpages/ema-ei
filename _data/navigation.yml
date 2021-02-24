@@ -16,6 +16,7 @@ links:
   - title: Archives
     collection: archives
   - title: Contact Us
-    collection: contact-us
+    url: /contact-us/
+    #to include formsg url when ready
   - title: Newsroom
     resource_room: true
