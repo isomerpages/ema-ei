@@ -2,8 +2,8 @@
 layout: homepage
 title: Isomer Site
 description: Energy Innovation
-image: /images/ema-logo.jpg
-permalink: /
+image: /images/ema-logo-resize.jpg
+permalink: /energy-innovation
 notification: Upcoming Energy Innovation will be in July 2021!
 sections:
     - hero:
@@ -14,19 +14,19 @@ sections:
         url: /energy-innovation-2021/agenda/
         key_highlights:
             - title: About Energy Innovation
-              description: 
+              description: Find out more
               url: about/about-energy-innovation/
-            - title: Project Showcase
-              description: 
-              url: projects-showcase/
+            - title: Projects Showcase
+              description: Find out more
+              url: projects-showcase/natural-gas
             - title: Archives
               description: Past events
-              url: archives/
+              url: archives/2019
     - infobar:
         title: Infobar title
         subtitle: Subtitle
         description: About a sentence worth of description here
-        button: Button text
+        button: Contact Us
         url: /contact-us/
     - resources:
         title: Media
