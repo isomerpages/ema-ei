@@ -3,7 +3,7 @@ layout: homepage
 title: Isomer Site
 description: Energy Innovation
 image: /images/ema-logo-resize.jpg
-permalink: /energy-innovation
+permalink: /
 notification: Upcoming Energy Innovation will be in July 2021!
 sections:
     - hero:
