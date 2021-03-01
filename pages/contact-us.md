@@ -13,11 +13,11 @@ locations:
         time: 8.00am - 5.30pm
         description: Closed on Saturdays, Sundays and Public Holidays
 contacts:
-  - title: General Enquiries & Feedback
+  - title: General Enquiries & Feedback on Energy Innovation
     content:
     - phone: +65 6835 8000
-    - email: Energy_R&D@ema.gov.sg
+    - email: ema_enterprise_development@ema.gov.sg
   - title: PoweringLives Portal
     content:
-    - webpage: www.poweringlives.gov.sg
+    - email: www.poweringlives.gov.sg
 ---
