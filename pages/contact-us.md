@@ -6,7 +6,7 @@ agency_name: Energy Market Authority
 locations:
   - title: Main Office
     address:
-        - 991G Alexandra Road #01-29
+        - 991G Alexandra Road 01-29
         - Singapore 119975
     operating_hours:
       - days: Mon - Fri
