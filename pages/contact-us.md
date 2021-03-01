@@ -6,27 +6,18 @@ agency_name: Energy Market Authority
 locations:
   - title: Main Office
     address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+        - 991G Alexandra Road #01-29
+        - Singapore 119975
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 8.00am - 5.30pm
+        description: Closed on Saturdays, Sundays and Public Holidays
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
+    - phone: +65 6835 8000
+    - email: Energy_R&D@ema.gov.sg
+  - title: PoweringLives Portal
     content:
-    - email: careers@abc.gov.sg
+    - webpage: www.poweringlives.gov.sg
 ---
