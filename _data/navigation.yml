@@ -7,20 +7,6 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: About
-    url: /about/
-  - title: Energy Innovation 2021
-    url: /energy-innovation-2021/
-  - title: Projects Showcase
-    url: /projects-showcase/
-  - title: Archives
-    url: /archives/
-  - title: Newsroom
-    url: /newsroom/
-  - title: Contact Us
-    url: /contact-us/
   - title: About
     collection: about
   - title: Energy Innovation 2021
@@ -29,9 +15,8 @@ links:
     collection: projects-showcase
   - title: Archives
     collection: archives
-  - title: Newsroom
-    collection: newsroom
   - title: Contact Us
-    collection: contact-us
+    url: /contact-us/
+    #to include formsg url when ready
   - title: Newsroom
     resource_room: true

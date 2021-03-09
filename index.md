@@ -1,36 +1,37 @@
 ---
 layout: homepage
 title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+description: Energy Innovation
+image: /images/ema-logo-resize.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Upcoming Energy Innovation will be in July 2021!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: Energy Innovation
+        subtitle: Look out for more updates
         background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        button: EI 2021
+        url: /energy-innovation-2021/agenda/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+            - title: About Energy Innovation
+              description: Find out more
+              url: about/about-energy-innovation/
+            - title: Projects Showcase
+              description: Find out more
+              url: projects-showcase/natural-gas
+            - title: Archives
+              description: Past events
+              url: archives/2019
     - infobar:
         title: Infobar title
         subtitle: Subtitle
         description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+        button: Contact Us
+        url: /contact-us/
     - resources:
         title: Media
         subtitle: Learn more
         button: View More
+        url: newsroom/
 ---
 
