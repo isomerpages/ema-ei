@@ -19,5 +19,5 @@ contacts:
     - email: ema_enterprise_development@ema.gov.sg
   - title: PoweringLives Portal
     content:
-    - other: <a href="www.poweringlives.gov.sg">Portal</a>
+    - other: <a href="https://www.poweringlives.gov.sg">Portal</a>
 ---
