@@ -1,22 +1,10 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
   - title: About
     collection: about
   - title: Energy Innovation 2021
     collection: energy-innovation-2021
-  - title: Projects Showcase
-    collection: projects-showcase
-  - title: Archives
-    collection: archives
+  - title: Energy Innovation Showcase
+    collection: energy-innovation-showcase 
   - title: Contact Us
     url: /contact-us/
-    #to include formsg url when ready
-  - title: Newsroom
-    resource_room: true
