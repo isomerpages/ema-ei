@@ -1,6 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: About
+    collection: about
+  - title: Energy Innovation 2021
+    collection: energy-innovation-2021
+  - title: Energy Innovation Showcase
+    collection: energy-innovation-showcase 
   - title: Contact Us
     url: /contact-us/
-  - title: Newsroom
-    resource_room: true
