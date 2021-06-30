@@ -1,0 +1,8 @@
+collections:
+  energy-innovation-showcase:
+    output: true
+    order:
+      - natural-gas.md
+      - solar-and-ess.md
+      - energy-efficiency.md
+      - next-generation-grid.md
