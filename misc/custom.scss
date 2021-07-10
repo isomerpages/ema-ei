@@ -335,3 +335,20 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+.ema-logo-wrapper img{
+	width: 225px;
+}
+.social-media-link-wrapper{
+	align-items: center;
+	display: flex;
+	justify-content: flex-start;
+	margin-bottom: 15px;
+}
+.social-media-link-wrapper a{
+	margin-bottom: 0;
+}
+.social-media-link-wrapper img{
+	margin: 0 15px 0 0;
+	width: 36px;
+}
