@@ -1,6 +1,7 @@
 ---
 title: Energy Market Authority
 permalink: /about/energy-market-authority/
+date: 2021-07-10
 ---
 
 <div class="ema-logo-wrapper">
