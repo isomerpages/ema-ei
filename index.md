@@ -13,21 +13,12 @@ sections:
       button: Register
       url: /
       key_highlights:
-        - title: Natural Gas
-          description: 
-          url: energy-innovation-showcase/natural-gas/
-        - title: Solar and ESS
-          description: 
-          url: energy-innovation-showcase/solar-and-ess/
-        - title: Next Generation Grid
-          description: 
-          url: energy-innovation-showcase/next-generation-grid/
-        - title: Energy Efficiency
-          description: 
-          url: energy-innovation-showcase/energy-efficiency/
-        - title: Digitalisation
-          description: 
-          url: energy-innovation-showcase/digitalisation/
+        - title: Virtual Event
+          description: Visit now
+          url: virtual-event/
+        - title: Event Details
+          description: Agenda
+          url: energy-innovation-2021/event-details/
   - infobar:
       title: Research Innovation, Enterprise and Deployment
       subtitle: About
@@ -35,11 +26,49 @@ sections:
       button: Find out more
       url: /about/research-innovation-enterprise-and-deployment/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      title: Natural Gas
+      subtitle: Energy Innovation Showcase
+      description: 
+      url: energy-innovation-showcase/natural-gas/
+      image: images/infopic-natural-gas.png
+      button: View more
+      alt: Natural Gas
+  - infopic:
+      title: Solar and ESS
+      subtitle: Energy Innovation Showcase
+      description: 
+      url: energy-innovation-showcase/solar-and-ess/
+      image: images/infopic-solar-and-ess.png
+      button: View more
+      alt: Solar and ESS
+  - infopic:
+      title: Next Generation Grid
+      subtitle: Energy Innovation Showcase
+      description: 
+      url: energy-innovation-showcase/next-generation-grid/
+      image: images/infopic-next-generation-grid.png
+      button: View more
+      alt: Next Generation Grid
+  - infobar:
+      title: Energy Efficiency
+      subtitle: Energy Innovation Showcase
+      description: 
+      button: View more
+      url: energy-innovation-showcase/energy-efficiency/
+  - infobar:
+      title: Digitalisation
+      subtitle: Energy Innovation Showcase
+      description: 
+      button: View more
+      url: energy-innovation-showcase/digitalisation/
+  - infopic:
+      title: Digitalisation
+      subtitle: Energy Innovation Showcase
+      description: Co-creating Singapore's Energy Future through R&D - Digitalisation
+      url: https://www.youtube.com/watch?v=8GeVbacC9X8
+      image: images/digitalisation-youtube.png
+      button: Play video
+      alt: Digitalisation
   - resources:
       title: Media
       subtitle: Learn more
