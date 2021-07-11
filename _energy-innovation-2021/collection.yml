@@ -4,6 +4,6 @@ collections:
     order:
       - event-details.md
       - speaker-profiles.md
-      - virtual-event.md
       - energy-connects-industry.md
       - energy-connects-academia.md
+      - virtual-event.md
