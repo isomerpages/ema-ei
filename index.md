@@ -7,27 +7,33 @@ permalink: /
 notification: Upcoming Energy Innovation will be in July 2021!
 sections:
   - hero:
-      title: Energy Innovation
-      subtitle: Look out for more updates
-      background: /images/hero-banner.png
-      button: EI 2021
-      url: /energy-innovation-2021/event-details/
+      title: Energy Innovation 2021
+      subtitle: 
+      background: /images/banner.png
+      button: Register
+      url: /
       key_highlights:
-        - title: About Energy Innovation
-          description: Find out more
-          url: about/about-energy-innovation/
-        - title: Projects Showcase
-          description: Find out more
-          url: projects-showcase/natural-gas
-        - title: Archives
-          description: Past events
-          url: archives/2019
+        - title: Natural Gas
+          description: 
+          url: energy-innovation-showcase/natural-gas/
+        - title: Solar and ESS
+          description: 
+          url: energy-innovation-showcase/solar-and-ess/
+        - title: Next Generation Grid
+          description: 
+          url: energy-innovation-showcase/next-generation-grid/
+        - title: Energy Efficiency
+          description: 
+          url: energy-innovation-showcase/energy-efficiency/
+        - title: Digitalisation
+          description: 
+          url: energy-innovation-showcase/digitalisation/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Contact Us
-      url: /contact-us/
+      title: Research Innovation, Enterprise and Deployment
+      subtitle: About
+      description: 
+      button: Find out more
+      url: /about/research-innovation-enterprise-and-deployment/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
