@@ -69,9 +69,4 @@ sections:
       image: images/digitalisation-youtube.png
       button: Play video
       alt: Digitalisation
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
-      url: newsroom/
 ---
