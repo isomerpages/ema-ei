@@ -1,15 +1,10 @@
 ---
-title: About Energy Innovation
-permalink: /about/about-energy-innovation/
+title: Energy Innovation 2021
+permalink: /about/energy-innovation-2021/
+date: 2021-07-10 03:00:00
 ---
-## Energy Innovation 
-### is an annual platform for industry captains, start-ups and researchers to discuss key energy issues and exchange ideas. 
+# Energy Innovation 2021
 
-**Energy Innovation aims to:**
-1. Promote knowledge-exchange
-2. Encourage translation
-3. Nurture the next-generation of Singapore's energy innovators
+The Energy Innovation (EI) event is an annual event to promote collaboration and knowledge-exchange among industry experts and the research community. The EI event provides a platform to showcase EMA-funded R&D projects undertaken by  industry and the research community over the years.
 
-<div class = "bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8GeVbacC9X8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Join us and register for this year's EI event themed "Enabling Sustainable Energy Transformation" [here](#). 

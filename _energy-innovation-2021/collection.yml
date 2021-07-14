@@ -1,0 +1,8 @@
+collections:
+  energy-innovation-2021:
+    output: true
+    order:
+      - event-details.md
+      - speaker-profiles.md
+      - energy-connects-industry.md
+      - energy-connects-academia.md

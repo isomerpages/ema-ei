@@ -2,7 +2,6 @@ collections:
   about:
     output: true
     order:
-      - energy-innovation-2021.md
       - energy-market-authority.md
-      - ried.md
-    
+      - research-innovation-enterprise-and-deployment.md
+      - energy-innovation-2021.md
