@@ -25,6 +25,12 @@ sections:
         - title: Energy Efficiency
           description: 
           url: /eishowcase/energy-efficiency/
+  - infobar:
+      title: Virtual Event Space
+      subtitle: "Exhibition, Forum, Workshop and Showcase"
+      description: Event date and time
+      button: Go to Event
+      url: /virtual-event/
   - infopic:
       title: Digitalisation
       subtitle: Energy Innovation Showcase
