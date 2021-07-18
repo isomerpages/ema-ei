@@ -42,7 +42,7 @@ sections:
       button: Play video
       alt: ESS
   - resources:
-        title: "Media"
-        subtitle: "Learn more"
-        button: "Contact Us"
+        title: "Energy Innovation Showcase"
+        subtitle: "Latest Projects"
+        button: "View more"
 ---

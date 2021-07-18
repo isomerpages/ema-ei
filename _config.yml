@@ -28,11 +28,11 @@ collections:
     output: true
   archives:
     output: true
-  newsroom:
+  eishowcase:
     output: true
   contact-us:
     output: true
-resources_name: newsroom
+resources_name: eishowcase
 
 description: An Isomer site of the Singapore Government
 
