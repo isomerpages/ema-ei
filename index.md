@@ -15,16 +15,16 @@ sections:
       key_highlights:
         - title: Natural Gas
           description: 
-          url: /
+          url: /eishowcase/natural-gas/
         - title: Solar and ESS
           description: 
-          url: /
+          url: /eishowcase/solar-and-ess/
         - title: Next Generation Grid
           description: 
-          url: /
+          url: /eishowcase/next-generation-grid/
         - title: Energy Efficiency
           description: 
-          url: /
+          url: /eishowcase/energy-efficiency/
   - infopic:
       title: Digitalisation
       subtitle: Energy Innovation Showcase
