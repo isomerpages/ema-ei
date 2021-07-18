@@ -61,3 +61,4 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme

@@ -2,7 +2,7 @@ collections:
   energy-innovation-2021:
     output: true
     order:
-      - event-details.md
-      - speaker-profiles.md
-      - energy-connects-industry.md
-      - energy-connects-academia.md
+      - ei2021.md
+      - energy-innovation-2021/.keep
+      - energy-innovation-2021/event-details.md
+      - energy-innovation-2021/speaker-profiles.md
