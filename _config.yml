@@ -26,8 +26,6 @@ collections:
     output: true
   energy-innovation-showcase:
     output: true
-  energy-connects:
-    output: true
   archives:
     output: true
   newsroom:
@@ -61,4 +59,3 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-remote-theme
