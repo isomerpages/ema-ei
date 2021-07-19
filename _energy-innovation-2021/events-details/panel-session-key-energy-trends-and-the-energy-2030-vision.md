@@ -1,5 +1,5 @@
 ---
-title: Panel Session: Key Energy Trends and the Energy 2030 Vision
+title: Panel Session - Key Energy Trends and the Energy 2030 Vision
 permalink: /energy-innovation-2021/event-details/panel-session-key-energy-trends-and-the-energy-2030-vision/
 third_nav_title: Event Details
 date: 2021-07-10 01:00:00
