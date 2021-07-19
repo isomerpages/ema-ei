@@ -64,7 +64,7 @@ Please click one of the icons below to enter the respective virtual rooms.
 	    <div class="icon-wrapper">
 	      <img src="/images/showcase-of-startup.png" alt="Showcase of Startup" />
 	    </div>
-	    <div class="description">Showcase of Start-ups<br>for Investment and<br>Test-Bedding Opportunities</div>
+	    <div class="description">Startups Showcase</div>
 	    <div class="time-slot">5:00 pm - 6:00 pm</div>
 	  </a>
 	</div>
