@@ -11,10 +11,21 @@ Please click one of the icons below to enter the respective virtual rooms.
     <div class="item-wrapper">
 	  <a href="#">
 	    <div class="icon-wrapper">
+	      <img src="/images/energy-innovation.png" alt="Energy Innovation" />
+	    </div>
+	    <div class="description">Energy Innovation</div>
+	    <div class="time-slot">2:00 pm - 4:00 pm</div>
+	  </a>
+	</div>	  
+  </div>
+  <div class="row-wrapper even">
+    <div class="item-wrapper">
+	  <a href="#">
+	    <div class="icon-wrapper">
 	      <img src="/images/pre-event-exhibition.png" alt="Pre-Event Exhibition" />
 	    </div>
 	    <div class="description">Pre-Event Exihibition</div>
-	    <div class="time-slot">2:00 pm - 3:00 pm</div>
+	    <div class="time-slot">2:00 pm - 2:30 pm</div>
 	  </a>
 	</div>
     <div class="item-wrapper">
@@ -23,18 +34,7 @@ Please click one of the icons below to enter the respective virtual rooms.
 	      <img src="/images/networking.png" alt="Networking" />
 	    </div>
 	    <div class="description">Networking</div>
-	    <div class="time-slot">2:00 pm - 3:00 pm</div>
-	  </a>
-	</div>
-  </div>
-  <div class="row-wrapper even">
-    <div class="item-wrapper">
-	  <a href="#">
-	    <div class="icon-wrapper">
-	      <img src="/images/energy-innovation.png" alt="Energy Innovation" />
-	    </div>
-	    <div class="description">Energy Innovation</div>
-	    <div class="time-slot">3:00 pm - 4:00 pm</div>
+	    <div class="time-slot">2:00 pm - 2:30 pm</div>
 	  </a>
 	</div>
   </div>
@@ -42,10 +42,10 @@ Please click one of the icons below to enter the respective virtual rooms.
     <div class="item-wrapper">
 	  <a href="#">
 	    <div class="icon-wrapper">
-	      <img src="/images/energy-educators-forum.png" alt="Energy Educators Forum" />
+	      <img src="/images/technical-workshop-on-grid.png" alt="Technical Workshop on Decarbonisation" />
 	    </div>
-	    <div class="description">Energy Educators Forum</div>
-	    <div class="time-slot">4:00 pm - 5:20 pm</div>
+	    <div class="description">Technical Workshop on Decarbonisation</div>
+	    <div class="time-slot">4:00 pm - 5:00 pm</div>
 	  </a>
 	</div>
     <div class="item-wrapper">
@@ -59,15 +59,6 @@ Please click one of the icons below to enter the respective virtual rooms.
 	</div>
   </div>
   <div class="row-wrapper even">
-    <div class="item-wrapper">
-	  <a href="#">
-	    <div class="icon-wrapper">
-	      <img src="/images/technical-workshop-on-grid.png" alt="Technical Workshop on Grid" />
-	    </div>
-	    <div class="description">Technical Workshop on Grid</div>
-	    <div class="time-slot">4:00 pm - 5:00 pm</div>
-	  </a>
-	</div>
     <div class="item-wrapper">
 	  <a href="#">
 	    <div class="icon-wrapper">
