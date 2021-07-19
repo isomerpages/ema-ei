@@ -14,3 +14,8 @@ EMA has been partnering industry players, Institutes of Higher Learning and Rese
 * Support Enterprise Development: To strengthen the translation of ideas into new market opportunities and nurture a vibrant energy ecosystem.
 
 * Facilitate Deployment of Promising Solutions: To address industry-relevant challenges, and help our local enterprises build track records and enhance international competitiveness through strategic partnerships.
+
+Check out our EMA website for the latest Grant Call Opportunities:
+<div class="social-media-link-wrapper">
+	<img src="/images/globe_grey.png" alt="globe" /> <a href="https://www.ema.gov.sg/Industry_Energy_Research_and_Development.aspx" target="_blank">www.ema.gov.sg</a>
+</div>
