@@ -18,13 +18,10 @@ colors:
     - title: media-color-five
       color: '#bdb76b'
 
-
 collections:
   about:
     output: true
   energy-innovation-2021:
-    output: true
-  energy-innovation-showcase:
     output: true
   archives:
     output: true
