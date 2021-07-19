@@ -23,10 +23,8 @@ collections:
     output: true
   energy-innovation-2021:
     output: true
-  archives:
-    output: true
   eishowcase:
-    output: true
+    output: false
   contact-us:
     output: true
 resources_name: eishowcase
