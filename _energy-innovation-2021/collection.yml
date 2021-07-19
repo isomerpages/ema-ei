@@ -2,7 +2,10 @@ collections:
   energy-innovation-2021:
     output: true
     order:
-      - event-details.md
-      - speaker-profiles.md
-      - energy-connects-industry.md
-      - energy-connects-academia.md
+      - ei2021.md
+      - virtual-event.md
+      - energy-innovation-2021/.keep
+      - energy-innovation-2021/event-details/key-energy-trends-and-the-energy-2030-vision-panel-session.md
+      - energy-innovation-2021/event-details/decarbonisation-workshop.md
+      - energy-innovation-2021/event-details/grid-digitalisation-workshop.md
+      - energy-innovation-2021/event-details/startup-showcase.md

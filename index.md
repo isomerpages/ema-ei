@@ -11,56 +11,26 @@ sections:
       subtitle: 
       background: /images/banner.png
       button: Register
-      url: /
+      url: "https://form.gov.sg/60d3f45c3a4de400130b2c7d"
       key_highlights:
-        - title: Virtual Event
-          description: Visit now
-          url: virtual-event/
-        - title: Event Details
-          description: Agenda
-          url: energy-innovation-2021/event-details/
+        - title: Natural Gas
+          description: 
+          url: /eishowcase/natural-gas/
+        - title: Solar and ESS
+          description: 
+          url: /eishowcase/solar-and-ess/
+        - title: Next Generation Grid
+          description: 
+          url: /eishowcase/next-generation-grid/
+        - title: Energy Efficiency
+          description: 
+          url: /eishowcase/energy-efficiency/
   - infobar:
-      title: Research Innovation, Enterprise and Deployment
-      subtitle: About
-      description: 
-      button: Find out more
-      url: /about/research-innovation-enterprise-and-deployment/
-  - infopic:
-      title: Natural Gas
-      subtitle: Energy Innovation Showcase
-      description: 
-      url: energy-innovation-showcase/natural-gas/
-      image: images/infopic-natural-gas.png
-      button: View more
-      alt: Natural Gas
-  - infopic:
-      title: Solar and ESS
-      subtitle: Energy Innovation Showcase
-      description: 
-      url: energy-innovation-showcase/solar-and-ess/
-      image: images/infopic-solar-and-ess.png
-      button: View more
-      alt: Solar and ESS
-  - infopic:
-      title: Next Generation Grid
-      subtitle: Energy Innovation Showcase
-      description: 
-      url: energy-innovation-showcase/next-generation-grid/
-      image: images/infopic-next-generation-grid.png
-      button: View more
-      alt: Next Generation Grid
-  - infobar:
-      title: Energy Efficiency
-      subtitle: Energy Innovation Showcase
-      description: 
-      button: View more
-      url: energy-innovation-showcase/energy-efficiency/
-  - infobar:
-      title: Digitalisation
-      subtitle: Energy Innovation Showcase
-      description: 
-      button: View more
-      url: energy-innovation-showcase/digitalisation/
+      title: Virtual Event Space
+      subtitle: "Exhibition, Forum, Workshop and Showcase"
+      description: Event date and time
+      button: Go to Event
+      url: /energy-innovation-2021/virtual-event/
   - infopic:
       title: Digitalisation
       subtitle: Energy Innovation Showcase
@@ -69,4 +39,16 @@ sections:
       image: images/digitalisation-youtube.png
       button: Play video
       alt: Digitalisation
+  - infopic:
+      title: Energy Storage System
+      subtitle: Energy Innovation Showcase
+      description: Co-creating Singapore's Energy Future through R&D - Digitalisation
+      url: https://www.youtube.com/watch?v=8GeVbacC9X8
+      image: images/digitalisation-youtube.png
+      button: Play video
+      alt: ESS
+  - resources:
+        title: "Energy Innovation Showcase"
+        subtitle: "Latest Projects"
+        button: "View more"
 ---

@@ -2,9 +2,20 @@ logo: /images/ei-logo.svg
 links:
   - title: About
     collection: about
-  - title: Energy Innovation 2021
+  - title: EI 2021
     collection: energy-innovation-2021
-  - title: Energy Innovation Showcase
-    collection: energy-innovation-showcase 
+  - title: Energy Connects
+    url: /energy-connects/
+  - title: EI Showcase
+    url: /eishowcase/
+    sublinks:
+    - title: Natural Gas
+      url: /eishowcase/natural-gas/
+    - title: Solar and ESS
+      url: /eishowcase/solar-and-ess/
+    - title: Next Generation Grid
+      url: /eishowcase/next-generation-grid/
+    - title: Energy Efficiency
+      url: /eishowcase/energy-efficiency/
   - title: Contact Us
     url: /contact-us/
