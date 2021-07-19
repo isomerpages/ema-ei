@@ -11,7 +11,7 @@ Decentralisation and digitalisation are accelerating our shift toward an intelli
     <tr>
 	  <td><img src="/images/speakers/eric-jost.jpg" alt="Eric Jost" width="180" height="240" /></td>
 	  <td>
-	    <p><span class="speaker-name">Mr Eric Jost</span><br>Partner, Advisory Power and Utilities (ASEAN)<br>Ernst & Young Advisory</p>
+	    <p><span class="speaker-name">Mr Eric Jost</span><br>Partner, Advisory Power and Utilities (ASEAN)<br>Ernst &amp; Young Advisory</p>
 	  </td>
 	</tr>
 	<tr>
@@ -23,7 +23,7 @@ Decentralisation and digitalisation are accelerating our shift toward an intelli
 	<tr>
 	  <td><img src="/images/speakers/jayant-amresh.jpg" alt="Jayant Amresh" width="180" height="240" /></td>
 	  <td>
-	    <p><span class="speaker-name">Mr Jayant Amresh</span><br>Project Management Lead for Global Transmission Asia<br>Black & Veatch</p>
+	    <p><span class="speaker-name">Mr Jayant Amresh</span><br>Project Management Lead for Global Transmission Asia<br>Black &amp; Veatch</p>
 	  </td>
 	</tr>
 	<tr>

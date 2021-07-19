@@ -14,7 +14,7 @@ Startups are crucial elements of the energy ecosystem. They bring with them inno
 	</tr>
 	<tr>
 	  <td><img src="/images/startups/anzene.png" alt="Anzene" width="859" height="905" /></td>
-	  <td>Anzene Pte. Ltd. (Anzene) aims to standardise the world's safest, strongest, swappable, smart IOT & recyclable battery pack that powers e-mobility & electronics on/ off-grid sustainably with renewable energy.</td>
+	  <td>Anzene Pte. Ltd. (Anzene) aims to standardise the world's safest, strongest, swappable, smart IOT &amp; recyclable battery pack that powers e-mobility & electronics on/ off-grid sustainably with renewable energy.</td>
 	</tr>
 	<tr>
 	  <td><img src="/images/startups/resync.png" alt="Resync" width="1140" height="448" /></td>
@@ -24,20 +24,18 @@ Startups are crucial elements of the energy ecosystem. They bring with them inno
 	</tr>
 	<tr>
 	  <td><img src="/images/startups/pylon-city.png" alt="Pylon City" width="428" height="214" /></td>
-	  <td>Pylon City is an Internet of Energy (IoE) startup that aspires to make cities greener, smarter and more energy efficient.<br>
-	  <br>
-	  Its Pylon Decentralized Energy Network (PyDEN) is a platform that allow its client to track end-to-end, the generation and consumption of clean energy in their facilities, as well as to automate and account for their energy sustainability goals.</td>
+	  <td>Pylon City is an Internet of Energy (IoE) startup that aspires to make cities greener, smarter and more energy efficient.<br><br>Its Pylon Decentralized Energy Network (PyDEN) is a platform that allow its client to track end-to-end, the generation and consumption of clean energy in their facilities, as well as to automate and account for their energy sustainability goals.</td>
 	</tr>
 	<tr>
 	  <td><img src="/images/startups/qe-labs.png" alt="QE-Labs" width="1299" height="423" /></td>
-	  <td>QE-Labs is a deep-tech spinoff company from SERIS at NUS. The company uses drone electroluminescence (EL) and A.I. big data analytics for fast and accurate identification of defective solar panels, PV system commissioning, O&M, asset transaction, etc.</td>
+	  <td>QE-Labs is a deep-tech spinoff company from SERIS at NUS. The company uses drone electroluminescence (EL) and A.I. big data analytics for fast and accurate identification of defective solar panels, PV system commissioning, O&amp;M, asset transaction, etc.</td>
 	</tr>
 	<tr>
 	  <td><img src="/images/startups/etavolt.png" alt="EtaVolt" width="356" height="143" /></td>
 	  <td>EtaVolt is Singapore's first solar technology company that focuses on regeneration and recycling business of solar panels. There are 2 major business pillars for EtaVolt:<br>
 	  <ul>
 	    <li>Pillar (1) Recycling business: establish green recycling process solution of degraded, damaged or end-of-life PV panels for material conservation; and</li>
-		<li>Pillar (2) Advanced panel regeneration: EtaVolt has been developing solar panel regeneration tech for electrical performance recovery on-site & in factory.</li>
+		<li>Pillar (2) Advanced panel regeneration: EtaVolt has been developing solar panel regeneration tech for electrical performance recovery on-site &amp; in factory.</li>
 	  </ul></td>
 	</tr>
 	<tr>
