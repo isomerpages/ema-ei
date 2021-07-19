@@ -9,7 +9,7 @@ Today, the power sector contributes about 40% of emissions in Singapore. To achi
 
 EMA has been partnering industry players, Institutes of Higher Learning and Research Institutes to build sustainable energy solutions and capabilities. This is to meet Singapore’s national and economic needs and to support the growth of local energy enterprises. More than S$100M of grants have been awarded to industry and the research community to: 
 
-* Catalyse Research & Innovation: To enable the integration of more clean energy into our power system, help reduce energy demand and strengthen grid resilience in support of Singapore's Energy Story.
+* Catalyse Research & Innovation: To enable the integration of more clean energy into our power system, help reduce energy demand and strengthen grid resilience in support of Singapore Green Plan 2030.
 
 * Support Enterprise Development: To strengthen the translation of ideas into new market opportunities and nurture a vibrant energy ecosystem.
 
