@@ -24,7 +24,7 @@ collections:
   energy-innovation-2021:
     output: true
   eishowcase:
-    output: false
+    output: true
   contact-us:
     output: true
 resources_name: eishowcase
