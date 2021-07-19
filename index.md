@@ -4,10 +4,8 @@ title: Energy Innovation 2021
 description: An annual event to promote collaboration and knowledge-exchange among industry experts and the research community
 image: /images/ema-logo-resize.jpg
 permalink: /
-<!-- notification: Upcoming Energy Innovation will be in July 2021! -->
 sections:
   - hero:
-<!--       title: Energy Innovation 2021 -->
       subtitle: 
       background: /images/banner.png
       button: Register
