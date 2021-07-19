@@ -17,14 +17,6 @@ Low-carbon technological solutions such as hydrogen and carbon capture, utilisat
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/cindy-lim.jpg" alt="Cindy Lim" width="180" height="240" /></td>
-	  <td>
-	    <p><span class="speaker-name">Ms Cindy Lim</span><br>
-		Chief Executive Officer<br>
-		Keppel Infrastructure</p>
-	  </td>
-	</tr>
-	<tr>
 	  <td><img src="/images/speakers/chan-siew-hwa.jpg" alt="Chan Siew Hwa" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="speaker-name">Professor Chan Siew Hwa</span><br>
