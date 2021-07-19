@@ -335,3 +335,142 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+.ema-logo-wrapper img{
+	width: 225px;
+}
+.social-media-link-wrapper{
+	align-items: center;
+	display: flex;
+	justify-content: flex-start;
+	margin-bottom: 15px;
+}
+.social-media-link-wrapper a{
+	margin-bottom: 0;
+}
+.social-media-link-wrapper img{
+	margin: 0 15px 0 0;
+	width: 36px;
+}
+
+.event-items-container .row-wrapper{
+	display: flex;
+	justify-content: space-evenly;
+	padding: 15px;
+}
+.event-items-container .row-wrapper.odd{
+	background-color: #f0f4f6;
+}
+.event-items-container a{
+	text-decoration: none;
+}
+.event-items-container .item-wrapper{
+	text-align: center;
+}
+.event-items-container .icon-wrapper img{
+	width: 300px;
+}
+.event-items-container .description{
+	color: #31607a;
+	font-weight: 700;
+}
+.event-items-container .time-slot{
+	color: #000;
+}
+
+.btn-register-container{
+	margin-top: 30px;
+	text-align: center;
+}
+.btn-register-container a{
+	border-radius: 25px;
+}
+
+.organiser-logos-container p{
+	font-weight: 700;
+}
+.organiser-logos-container img{
+	height: 60px;
+	width: auto;
+}
+.organiser-wrapper .logo-wrapper img{
+	display: inline-block;
+	height: 80px;
+	margin-left: 15px;
+	text-align: left;
+}
+.partner-logos-container{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+.partner-logo-wrapper:not(:last-child){
+	padding-right: 10px;
+}
+.partner-logo-wrapper:nth-child(3) img{
+	height: 40px;
+}
+
+.program-tbl-container th,
+.program-tbl-container td,
+.speakers-tbl-container td,
+.showcase-tbl-container td{
+	font-size: 1.25rem;
+}
+.program-tbl-container th{
+	font-weight: 700;
+}
+.program-tbl-container td p,
+.speakers-tbl-container td p,
+.showcase-tbl-container td p,
+.showcase-tbl-container td li{
+	line-height: 1.1;
+	margin-bottom: 10px;
+}
+.program-tbl-container td:not([colspan="2"]){
+	max-width: 260px;
+}
+.program-tbl-container .programme-topic{
+	font-weight: 700;
+}
+
+.speakers-tbl-container td:first-child{
+	width: 150px;
+}
+.speakers-tbl-container td .speaker-name{
+	font-weight: 700;
+}
+.speakers-tbl-container td .moderator-text{
+	text-decoration: underline;
+}
+.showcase-tbl-container td:first-child{
+	width: 200px;
+}
+
+@media all and (max-width: 720px){
+	.organiser-wrapper .logo-wrapper img{
+		display: block;
+		margin: 0 auto 15px;
+	}
+	.partner-logos-container{
+		flex-wrap: wrap;
+	}
+	.partner-logo-wrapper{
+		margin-bottom: 15px;
+	}
+	
+	.program-tbl-container td:not([colspan="2"]):not(:first-child){
+		min-width: 220px;
+	}
+	
+	.showcase-tbl-container td:first-child{
+		min-width: 200px;
+	}
+	.showcase-tbl-container td:last-child{
+		min-width: 220px;
+	}
+	
+	.event-items-container .row-wrapper{
+		flex-wrap: wrap;
+	}	
+}

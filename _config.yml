@@ -1,6 +1,6 @@
-title: Energy Innovation (UAT)
+title: Energy Innovation 2021
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.ico
 
 # Site colors
 colors:
@@ -14,25 +14,22 @@ colors:
     - title: media-color-three
       color: '#00838f'
     - title: media-color-four
-      color: '#00838f'
+      color: '#6a5acd'
     - title: media-color-five
-      color: '#00838f'
-
+      color: '#bdb76b'
 
 collections:
   about:
     output: true
   energy-innovation-2021:
     output: true
-  projects-showcase:
-    output: true
   archives:
     output: true
-  newsroom:
+  eishowcase:
     output: true
   contact-us:
     output: true
-resources_name: newsroom
+resources_name: eishowcase
 
 description: An Isomer site of the Singapore Government
 
