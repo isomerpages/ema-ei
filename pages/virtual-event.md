@@ -51,9 +51,9 @@ Please click one of the icons below to enter the respective virtual rooms.
     <div class="item-wrapper">
 	  <a href="#">
 	    <div class="icon-wrapper">
-	      <img src="/images/technical-workshop-on-grid.png" alt="Technical Workshop on Grid" />
+	      <img src="/images/technical-workshop-on-grid.png" alt="Technical Workshop on Grid Digitalisation" />
 	    </div>
-	    <div class="description">Technical Workshop on Grid</div>
+	    <div class="description">Technical Workshop on Grid Digitalisation</div>
 	    <div class="time-slot">4:00 pm - 5:00 pm</div>
 	  </a>
 	</div>
