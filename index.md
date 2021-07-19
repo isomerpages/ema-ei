@@ -41,8 +41,8 @@ sections:
       title: Energy Storage System
       subtitle: Energy Innovation Showcase
       description: Co-creating Singapore's Energy Future through R&D - Energy Storage Systems
-      url: https://www.youtube/55lMxSNTtvs
-      image: images/digitalisation-youtube.png
+      url: https://www.youtube.com/watch?v=55lMxSNTtvs
+      image: images/ess-youtube.jpg
       button: Play video
       alt: ESS
   - resources:
