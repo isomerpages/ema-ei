@@ -22,9 +22,9 @@ Please click one of the icons below to enter the respective virtual rooms.
     <div class="item-wrapper">
 	  <a href="#">
 	    <div class="icon-wrapper">
-	      <img src="/images/pre-event-exhibition.png" alt="Pre-Event Exhibition" />
+		    <img src="/images/pre-event-exhibition.png" alt="Pre-Event Exhibition </br>Energy Innovation Showcase" />
 	    </div>
-	    <div class="description">Pre-Event Exihibition</div>
+		  <div class="description">Pre-Event Exihibition </br>Energy Innovation Showcase</div>
 	    <div class="time-slot">2:00 pm - 2:30 pm</div>
 	  </a>
 	</div>
