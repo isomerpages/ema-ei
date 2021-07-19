@@ -31,7 +31,7 @@ sections:
       url: /energy-innovation-2021/virtual-event/
   - infopic:
       title: Digitalisation
-      subtitle: Energy Innovation Showcase
+      subtitle: Video Showcase On
       description: Co-creating Singapore's Energy Future through R&D - Digitalisation
       url: https://www.youtube.com/watch?v=8GeVbacC9X8
       image: images/digitalisation-youtube.png
@@ -39,7 +39,7 @@ sections:
       alt: Digitalisation
   - infopic:
       title: Energy Storage System
-      subtitle: Energy Innovation Showcase
+      subtitle: Video Showcase On
       description: Co-creating Singapore's Energy Future through R&D - Energy Storage Systems
       url: https://www.youtube.com/watch?v=55lMxSNTtvs
       image: images/ess-youtube.jpg
