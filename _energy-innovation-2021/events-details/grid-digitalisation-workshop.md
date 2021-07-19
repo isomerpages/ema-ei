@@ -17,14 +17,6 @@ Decentralisation and digitalisation are accelerating our shift toward an intelli
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/cindy-lim.jpg" alt="Cindy Lim" width="180" height="240" /></td>
-	  <td>
-	    <p><span class="speaker-name">Ms Cindy Lim</span><br>
-		Chief Executive Officer<br>
-		Keppel Infrastructure</p>
-	  </td>
-	</tr>
-	<tr>
 	  <td><img src="/images/speakers/martin-hauske.jpg" alt="Martin Hauske" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="speaker-name">Mr Martin Hauske</span><br>
