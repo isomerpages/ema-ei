@@ -11,42 +11,31 @@ Decentralisation and digitalisation are accelerating our shift toward an intelli
     <tr>
 	  <td><img src="/images/speakers/eric-jost.jpg" alt="Eric Jost" width="180" height="240" /></td>
 	  <td>
-	    <p><span class="speaker-name">Mr Eric Jost</span><br>
-		Partner, Advisory Power and Utilities (ASEAN)<br>
-		Ernst & Young Advisory</p>
+	    <p><span class="speaker-name">Mr Eric Jost</span><br>Partner, Advisory Power and Utilities (ASEAN)<br>Ernst & Young Advisory</p>
 	  </td>
 	</tr>
 	<tr>
 	  <td><img src="/images/speakers/martin-hauske.jpg" alt="Martin Hauske" width="180" height="240" /></td>
 	  <td>
-	    <p><span class="speaker-name">Mr Martin Hauske</span><br>
-		Asia Pacific Energy Segment Lead<br>
-		Nokia</p>
+	    <p><span class="speaker-name">Mr Martin Hauske</span><br>Asia Pacific Energy Segment Lead<br>Nokia</p>
 	  </td>
 	</tr>
 	<tr>
 	  <td><img src="/images/speakers/jayant-amresh.jpg" alt="Jayant Amresh" width="180" height="240" /></td>
 	  <td>
-	    <p><span class="speaker-name">Mr Jayant Amresh</span><br>
-		Project Management Lead for Global Transmission Asia<br>
-		Black & Veatch</p>
+	    <p><span class="speaker-name">Mr Jayant Amresh</span><br>Project Management Lead for Global Transmission Asia<br>Black & Veatch</p>
 	  </td>
 	</tr>
 	<tr>
 	  <td><img src="/images/speakers/nugroho-prananto-utomo.jpg" alt="Nugroho Prananto Utomo" width="180" height="240" /></td>
 	  <td>
-	    <p><span class="speaker-name">Mr Nugroho Prananto Utomo</span><br>
-		Senior Consultant<br>
-		DNV Singapore</p>
+	    <p><span class="speaker-name">Mr Nugroho Prananto Utomo</span><br>Senior Consultant<br>DNV Singapore</p>
 	  </td>
 	</tr>
 	<tr>
 	  <td><img src="/images/speakers/gary-ang-chee-kiong.jpg" alt="Gary Ang Chee Kiong" width="180" height="240" /></td>
 	  <td>
-	    <p><span class="moderator-text">Moderator</span><br>
-		<span class="speaker-name">Mr Gary Ang Chee Kiong</span><br>
-		Director<br>
-		SP Group</p>
+	    <p><span class="moderator-text">Moderator</span><br><span class="speaker-name">Mr Gary Ang Chee Kiong</span><br>Director<br>SP Group</p>
 	  </td>
 	</tr>
   </table>
