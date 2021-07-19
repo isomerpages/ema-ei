@@ -11,42 +11,42 @@ Low-carbon technological solutions such as hydrogen and carbon capture, utilisat
     <tr>
 	  <td><img src="/images/speakers/chen-luwei.jpg" alt="Chen Luwei" width="180" height="240" /></td>
 	  <td>
-	    Associate Professor Chen Luwei<br>
+	    <p><span class="speaker-name">Associate Professor Chen Luwei</span><br>
 		Senior Scientist<br>
-		Institute of Chemical and Engineering Sciences (ICES), A*STAR
+		Institute of Chemical and Engineering Sciences (ICES), A*STAR</p>
 	  </td>
 	</tr>
 	<tr>
 	  <td><img src="/images/speakers/cindy-lim.jpg" alt="Cindy Lim" width="180" height="240" /></td>
 	  <td>
-	    Ms Cindy Lim<br>
+	    <p><span class="speaker-name">Ms Cindy Lim</span><br>
 		Chief Executive Officer<br>
-		Keppel Infrastructure
+		Keppel Infrastructure</p>
 	  </td>
 	</tr>
 	<tr>
 	  <td><img src="/images/speakers/chan-siew-hwa.jpg" alt="Chan Siew Hwa" width="180" height="240" /></td>
 	  <td>
-	    Professor Chan Siew Hwa<br>
+	    <p><span class="speaker-name">Professor Chan Siew Hwa</span><br>
 		Co-Director<br>
-		Energy Research Institute @ Nanyang Technological University (ERI@N)
+		Energy Research Institute @ Nanyang Technological University (ERI@N)</p>
 	  </td>
 	</tr>
 	<tr>
 	  <td><img src="/images/speakers/adam-usadi.jpg" alt="Adam Usadi" width="180" height="240" /></td>
 	  <td>
-	    Dr Adam Usadi<br>
+	    <p><span class="speaker-name">Dr Adam Usadi</span><br>
 		Energy Centre Advisor<br>
-		ExxonMobil
+		ExxonMobil</p>
 	  </td>
 	</tr>
 	<tr>
 	  <td><img src="/images/speakers/connie-liu.jpg" alt="Connie Liu" width="180" height="240" /></td>
 	  <td>
-	    Moderator<br>
-		Dr Connie Liu<br>
+	    <p><span class="moderator-text">Moderator</span><br>
+		<span class="speaker-name">Dr Connie Liu</span><br>
 		Acting Head of Strategy Management<br>
-		Institute of Chemical and Engineering Sciences (ICES), A*STAR
+		Institute of Chemical and Engineering Sciences (ICES), A*STAR</p>
 	  </td>
 	</tr>
   </table>

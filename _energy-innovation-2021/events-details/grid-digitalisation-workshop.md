@@ -11,50 +11,50 @@ Decentralisation and digitalisation are accelerating our shift toward an intelli
     <tr>
 	  <td><img src="/images/speakers/eric-jost.jpg" alt="Eric Jost" width="180" height="240" /></td>
 	  <td>
-	    Mr Eric Jost<br>
+	    <p><span class="speaker-name">Mr Eric Jost</span><br>
 		Partner, Advisory Power and Utilities (ASEAN)<br>
-		Ernst & Young Advisory
+		Ernst & Young Advisory</p>
 	  </td>
 	</tr>
 	<tr>
 	  <td><img src="/images/speakers/cindy-lim.jpg" alt="Cindy Lim" width="180" height="240" /></td>
 	  <td>
-	    Ms Cindy Lim<br>
+	    <p><span class="speaker-name">Ms Cindy Lim</span><br>
 		Chief Executive Officer<br>
-		Keppel Infrastructure
+		Keppel Infrastructure</p>
 	  </td>
 	</tr>
 	<tr>
 	  <td><img src="/images/speakers/martin-hauske.jpg" alt="Martin Hauske" width="180" height="240" /></td>
 	  <td>
-	    Mr Martin Hauske<br>
+	    <p><span class="speaker-name">Mr Martin Hauske</span><br>
 		Asia Pacific Energy Segment Lead<br>
-		Nokia
+		Nokia</p>
 	  </td>
 	</tr>
 	<tr>
 	  <td><img src="/images/speakers/jayant-amresh.jpg" alt="Jayant Amresh" width="180" height="240" /></td>
 	  <td>
-	    Mr Jayant Amresh<br>
+	    <p><span class="speaker-name">Mr Jayant Amresh</span><br>
 		Project Management Lead for Global Transmission Asia<br>
-		Black & Veatch
+		Black & Veatch</p>
 	  </td>
 	</tr>
 	<tr>
 	  <td><img src="/images/speakers/nugroho-prananto-utomo.jpg" alt="Nugroho Prananto Utomo" width="180" height="240" /></td>
 	  <td>
-	    Mr Nugroho Prananto Utomo<br>
+	    <p><span class="speaker-name">Mr Nugroho Prananto Utomo</span><br>
 		Senior Consultant<br>
-		DNV Singapore
+		DNV Singapore</p>
 	  </td>
 	</tr>
 	<tr>
 	  <td><img src="/images/speakers/gary-ang-chee-kiong.jpg" alt="Gary Ang Chee Kiong" width="180" height="240" /></td>
 	  <td>
-	    Moderator<br>
-		Mr Gary Ang Chee Kiong<br>
+	    <p><span class="moderator-text">Moderator</span><br>
+		<span class="speaker-name">Mr Gary Ang Chee Kiong</span><br>
 		Director<br>
-		SP Group
+		SP Group</p>
 	  </td>
 	</tr>
   </table>

@@ -11,7 +11,7 @@ sections:
       subtitle: 
       background: /images/banner.png
       button: Register
-      url: /
+      url: "https://form.gov.sg/60d3f45c3a4de400130b2c7d"
       key_highlights:
         - title: Natural Gas
           description: 
@@ -30,7 +30,7 @@ sections:
       subtitle: "Exhibition, Forum, Workshop and Showcase"
       description: Event date and time
       button: Go to Event
-      url: /virtual-event/
+      url: /energy-innovation-2021/virtual-event/
   - infopic:
       title: Digitalisation
       subtitle: Energy Innovation Showcase
