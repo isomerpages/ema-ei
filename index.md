@@ -25,7 +25,7 @@ sections:
           url: /eishowcase/energy-efficiency/
   - infopic:
       title: Digitalisation
-      subtitle: Co-creating Singapore's Energy Future through R&D
+      subtitle: Video Showcase on
       description: Digitalisation plays a big role in shaping tomorrow's energy future. We have been working the industry and research community to co-create innovative solutions to digitalise the energy sector to improve productivity and efficiency, maintain grid resilience and achieve carbon abatement.
       url: https://www.youtube.com/watch?v=8GeVbacC9X8
       image: images/digitalisation-youtube.png
@@ -33,7 +33,7 @@ sections:
       alt: Digitalisation
   - infopic:
       title: Energy Storage Systems (ESS)
-      subtitle: Co-creating Singapore's Energy Future through R&D
+      subtitle: Video Showcase on
       description: The increasing use of solar will require ESS to mitigate intermittency challenges. We have partnered industry stakeholders, the research community and other government agencies to co-create innovative ESS solutions.
       url: https://www.youtube.com/watch?v=55lMxSNTtvs
       image: images/ess-youtube.jpg
