@@ -13,7 +13,7 @@ Please click one of the icons below to enter the respective virtual rooms.
 	    <div class="icon-wrapper">
 	      <img src="/images/energy-innovation.png" alt="Energy Innovation" />
 	    </div>
-	    <div class="description">Energy Innovation</div>
+	    <div class="description">Energy Innovation<br/>Main Event</div>
 	    <div class="time-slot">2:00 pm - 4:00 pm</div>
 	  </a>
 	</div>	  
