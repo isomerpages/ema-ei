@@ -8,8 +8,8 @@ sections:
   - hero:
       subtitle: 
       background: /images/banner.png
-      button: Register
-      url: "https://form.gov.sg/60d3f45c3a4de400130b2c7d"
+      button: Virtual Event Space
+      url: "https://energyinnovation.ema.gov.sg/energy-innovation-2021/virtual-event/"
       key_highlights:
         - title: Natural Gas
           description: 
@@ -23,12 +23,12 @@ sections:
         - title: Energy Efficiency
           description: 
           url: /eishowcase/energy-efficiency/
-  - infobar:
+<!--   - infobar:
       title: Virtual Event Space
       subtitle: "Exhibition, Forum, Workshop and Showcase"
       description: Event date and time
       button: Go to Event
-      url: /energy-innovation-2021/virtual-event/
+      url: /energy-innovation-2021/virtual-event/ -->
   - infopic:
       title: Digitalisation
       subtitle: Video Showcase On
