@@ -8,8 +8,8 @@ sections:
   - hero:
       subtitle: 
       background: /images/banner.png
-      button: Register
-      url: "https://form.gov.sg/60d3f45c3a4de400130b2c7d"
+      button: Go to Event
+      url: "https://energyinnovation.ema.gov.sg/energy-innovation-2021/virtual-event/"
       key_highlights:
         - title: Natural Gas
           description: 
@@ -23,24 +23,18 @@ sections:
         - title: Energy Efficiency
           description: 
           url: /eishowcase/energy-efficiency/
-  - infobar:
-      title: Virtual Event Space
-      subtitle: "Exhibition, Forum, Workshop and Showcase"
-      description: Event date and time
-      button: Go to Event
-      url: /energy-innovation-2021/virtual-event/
   - infopic:
       title: Digitalisation
-      subtitle: Video Showcase On
-      description: Co-creating Singapore's Energy Future through R&D - Digitalisation
+      subtitle: Video Showcase on
+      description: Digitalisation plays a big role in shaping tomorrow's energy future. We have been working the industry and research community to co-create innovative solutions to digitalise the energy sector to improve productivity and efficiency, maintain grid resilience and achieve carbon abatement.
       url: https://www.youtube.com/watch?v=8GeVbacC9X8
       image: images/digitalisation-youtube.png
       button: Play video
       alt: Digitalisation
   - infopic:
-      title: Energy Storage System
-      subtitle: Video Showcase On
-      description: Co-creating Singapore's Energy Future through R&D - Energy Storage Systems
+      title: Energy Storage Systems (ESS)
+      subtitle: Video Showcase on
+      description: The increasing use of solar will require ESS to mitigate intermittency challenges. We have partnered industry stakeholders, the research community and other government agencies to co-create innovative ESS solutions.
       url: https://www.youtube.com/watch?v=55lMxSNTtvs
       image: images/ess-youtube.jpg
       button: Play video
