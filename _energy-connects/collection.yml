@@ -1,0 +1,6 @@
+collections:
+  energy-connects:
+    output: true
+    order:
+      - register.md
+      - directory.md
