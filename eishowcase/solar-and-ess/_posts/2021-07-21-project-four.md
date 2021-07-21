@@ -6,7 +6,6 @@ permalink: "/eishowcase/solar-and-ess/project-four"
 #### Woodlands Utility-scale Energy Storage System Testbed
 * Grant Call: ESS Test-Bed
 * Host Institution: Sunseap Energy Ventures Pte Ltd
+* Download: [694kB](/files/showcase/solar_ess_04.pdf)
 
-<div class="showcase-embed-container">
-	<embed type="application/pdf" src="/files/showcase/solar_ess_04.pdf#view=FitH">
-</div>
+![Woodlands Utility-scale Energy Storage System Testbed](/images/showcase/solar_ess_04.png)

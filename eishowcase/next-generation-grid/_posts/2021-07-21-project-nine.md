@@ -6,7 +6,6 @@ permalink: "/eishowcase/next-generation-grid/project-nine"
 #### Towards Green Datacenters as An Interruptible Load for Grid Stabilisation in Singapore
 * Grant Call: 
 * Host Institution: SUTD
+* Download: [674kB](/files/showcase/next_generation_grid_09.pdf)
 
-<div class="showcase-embed-container">
-	<embed type="application/pdf" src="/files/showcase/next_generation_grid_09.pdf#view=FitH">
-</div>
+![Towards Green Datacenters as An Interruptible Load for Grid Stabilisation in Singapore](/images/showcase/next_generation_grid_09.png)
