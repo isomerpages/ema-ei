@@ -443,8 +443,18 @@ $desktop: 960px + (2 * $gap) !default;
 .speakers-tbl-container td .moderator-text{
 	text-decoration: underline;
 }
+
+.speaker-designation{
+	font-style: italic;
+}
+
 .showcase-tbl-container td:first-child{
 	width: 200px;
+}
+
+.showcase-embed-container embed{
+	height: 600px;
+	width: 100%;
 }
 
 @media all and (max-width: 720px){

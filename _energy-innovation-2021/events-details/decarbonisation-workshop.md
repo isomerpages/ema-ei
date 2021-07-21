@@ -21,13 +21,13 @@ Low-carbon technological solutions such as hydrogen and carbon capture, utilisat
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/adam-usadi.jpg" alt="Adam Usadi" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/adam-usadi-cropped.jpg" alt="Adam Usadi" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="speaker-name">Dr Adam Usadi</span><br>Energy Centre Advisor<br>ExxonMobil</p>
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/connie-liu.jpg" alt="Connie Liu" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/connie-liu-cropped.jpg" alt="Connie Liu" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="moderator-text">Moderator</span><br><span class="speaker-name">Dr Connie Liu</span><br>Acting Head of Strategy Management<br>Institute of Chemical and Engineering Sciences (ICES), A&ast;STAR</p>
 	  </td>

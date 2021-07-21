@@ -23,7 +23,11 @@ collections:
     output: true
   energy-innovation-2021:
     output: true
+  energy-connects:
+    output: true
   eishowcase:
+    output: true
+  archives:
     output: true
   contact-us:
     output: true

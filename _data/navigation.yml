@@ -4,8 +4,8 @@ links:
     collection: about
   - title: EI 2021
     collection: energy-innovation-2021
-#   - title: Energy Connects
-#     url: /energy-connects/
+  - title: Energy Connects
+    collection: energy-connects
   - title: EI Showcase
     url: /eishowcase/
     sublinks:
@@ -17,5 +17,7 @@ links:
       url: /eishowcase/next-generation-grid/
     - title: Energy Efficiency
       url: /eishowcase/energy-efficiency/
+#  - title: Archives
+#    collection: archives
   - title: Contact Us
     url: /contact-us/
