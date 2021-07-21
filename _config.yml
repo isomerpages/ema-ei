@@ -25,6 +25,8 @@ collections:
     output: true
   eishowcase:
     output: true
+  archives:
+    output: true
   contact-us:
     output: true
 resources_name: eishowcase
