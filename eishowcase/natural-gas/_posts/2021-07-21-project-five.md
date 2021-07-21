@@ -8,5 +8,5 @@ permalink: "/eishowcase/natural-gas/project-five"
 * Host Institution: A*STAR NMC
 
 <div class="showcase-embed-container">
-	<embed type="application/pdf" src="/images/showcase/natural_gas_05.pdf#view=FitH">
+	<embed type="application/pdf" src="/files/showcase/natural_gas_05.pdf#view=FitH">
 </div>

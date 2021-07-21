@@ -8,5 +8,5 @@ permalink: "/eishowcase/next-generation-grid/project-six"
 * Host Institution: Advanced Digital Sciences Center
 
 <div class="showcase-embed-container">
-	<embed type="application/pdf" src="/images/showcase/next_generation_grid_06.pdf#view=FitH">
+	<embed type="application/pdf" src="/files/showcase/next_generation_grid_06.pdf#view=FitH">
 </div>

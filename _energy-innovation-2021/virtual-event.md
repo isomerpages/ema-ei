@@ -8,7 +8,7 @@ Please click one of the icons below to enter the respective virtual rooms.
 <div class="event-items-container">
   <div class="row-wrapper odd">
     <div class="item-wrapper">
-	  <a href="#">
+	  <a href="https://us02web.zoom.us/j/86057141803?pwd=Y2FudTFjMzlhN2RzZy9iSzFvN1AwUT09">
 	    <div class="icon-wrapper">
 	      <img src="/images/energy-innovation.png" alt="Energy Innovation Main Event" />
 	    </div>
@@ -28,7 +28,7 @@ Please click one of the icons below to enter the respective virtual rooms.
 	  </a>
 	</div>
     <div class="item-wrapper">
-	  <a href="#">
+	  <a href="https://us02web.zoom.us/j/84713031468?pwd=d0dGTXZNWGt5Mk12T05QcWQ5WnRidz09" target="_blank">
 	    <div class="icon-wrapper">
 	      <img src="/images/networking.png" alt="Networking" />
 	    </div>
@@ -39,27 +39,27 @@ Please click one of the icons below to enter the respective virtual rooms.
   </div>
   <div class="row-wrapper odd">
     <div class="item-wrapper">
-	  <a href="#">
+	  <a href="https://us02web.zoom.us/j/86057141803?pwd=Y2FudTFjMzlhN2RzZy9iSzFvN1AwUT09">
 	    <div class="icon-wrapper">
-	      <img src="/images/technical-workshop-on-grid.png" alt="Technical Workshop on Decarbonisation" />
+	      <img src="/images/technical-workshop-on-grid.png" alt="Technical Workshop" />
 	    </div>
-	    <div class="description">Technical Workshop on<br/>Decarbonisation</div>
+	    <div class="description">Decarbonisation Workshop</div>
 	    <div class="time-slot">4:00 pm - 5:00 pm</div>
 	  </a>
 	</div>
     <div class="item-wrapper">
-	  <a href="#">
+	  <a href="https://us02web.zoom.us/j/88265688209?pwd=VEl0cDZWVmNOZWMways2UEFScCs4QT09" target="_blank">
 	    <div class="icon-wrapper">
-	      <img src="/images/technical-workshop-on-grid.png" alt="Technical Workshop on Grid Digitalisation" />
+	      <img src="/images/technical-workshop-on-grid.png" alt="Technical Workshop" />
 	    </div>
-	    <div class="description">Technical Workshop on<br/>Grid Digitalisation</div>
+	    <div class="description">Grid Digitalisation Workshop</div>
 	    <div class="time-slot">4:00 pm - 5:00 pm</div>
 	  </a>
 	</div>
   </div>
   <div class="row-wrapper even">
     <div class="item-wrapper">
-	  <a href="#">
+	  <a href="https://us02web.zoom.us/j/86057141803?pwd=Y2FudTFjMzlhN2RzZy9iSzFvN1AwUT09">
 	    <div class="icon-wrapper">
 	      <img src="/images/showcase-of-startup.png" alt="Startups Showcase" />
 	    </div>

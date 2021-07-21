@@ -8,5 +8,5 @@ permalink: "/eishowcase/next-generation-grid/project-seven"
 * Host Institution: NUS
 
 <div class="showcase-embed-container">
-	<embed type="application/pdf" src="/images/showcase/next_generation_grid_07.pdf#view=FitH">
+	<embed type="application/pdf" src="/files/showcase/next_generation_grid_07.pdf#view=FitH">
 </div>

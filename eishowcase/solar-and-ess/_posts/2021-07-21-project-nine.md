@@ -8,5 +8,5 @@ permalink: "/eishowcase/solar-and-ess/project-nine"
 * Host Institution: Durapower Technology Singapore Pte Ltd
 
 <div class="showcase-embed-container">
-	<embed type="application/pdf" src="/images/showcase/solar_ess_09.pdf#view=FitH">
+	<embed type="application/pdf" src="/files/showcase/solar_ess_09.pdf#view=FitH">
 </div>

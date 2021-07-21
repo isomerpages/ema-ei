@@ -9,5 +9,5 @@ permalink: "/eishowcase/energy-efficiency/project-four"
 
 
 <div class="showcase-embed-container">
-	<embed type="application/pdf" src="/images/showcase/energy_efficiency_04.pdf#view=FitH">
+	<embed type="application/pdf" src="/files/showcase/energy_efficiency_04.pdf#view=FitH">
 </div>

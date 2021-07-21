@@ -8,5 +8,5 @@ permalink: "/eishowcase/next-generation-grid/project-eight"
 * Host Institution: SUTD
 
 <div class="showcase-embed-container">
-	<embed type="application/pdf" src="/images/showcase/next_generation_grid_08.pdf#view=FitH">
+	<embed type="application/pdf" src="/files/showcase/next_generation_grid_08.pdf#view=FitH">
 </div>

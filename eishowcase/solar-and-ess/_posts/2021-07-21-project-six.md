@@ -8,5 +8,5 @@ permalink: "/eishowcase/solar-and-ess/project-six"
 * Host Institution: NTU
 
 <div class="showcase-embed-container">
-	<embed type="application/pdf" src="/images/showcase/solar_ess_06.pdf#view=FitH">
+	<embed type="application/pdf" src="/files/showcase/solar_ess_06.pdf#view=FitH">
 </div>

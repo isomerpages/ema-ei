@@ -8,5 +8,5 @@ permalink: "/eishowcase/energy-efficiency/project-two"
 * Host Institution: NUS
 
 <div class="showcase-embed-container">
-	<embed type="application/pdf" src="/images/showcase/energy_efficiency_02.pdf#view=FitH">
+	<embed type="application/pdf" src="/files/showcase/energy_efficiency_02.pdf#view=FitH">
 </div>
