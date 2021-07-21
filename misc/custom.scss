@@ -447,6 +447,11 @@ $desktop: 960px + (2 * $gap) !default;
 	width: 200px;
 }
 
+.showcase-embed-container embed{
+	height: 600px;
+	width: 100%;
+}
+
 @media all and (max-width: 720px){
 	.organiser-wrapper .logo-wrapper img{
 		display: block;
