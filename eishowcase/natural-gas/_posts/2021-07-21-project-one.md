@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Cost Effective Solidified Natural Gas (SNG) Technology for Energy Storage to Strengthen Energy Resilience in Singapore"
-permalink: "/eishowcase/natural-gas/project-seven"
+permalink: "/eishowcase/natural-gas/project-one"
 ---
 #### A Cost Effective Solidified Natural Gas (SNG) Technology for Energy Storage to Strengthen Energy Resilience in Singapore
 
