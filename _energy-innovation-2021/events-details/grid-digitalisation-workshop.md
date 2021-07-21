@@ -15,13 +15,13 @@ Decentralisation and digitalisation are accelerating our shift toward an intelli
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/martin-hauske.jpg" alt="Martin Hauske" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/martin-hauske-cropped.jpg" alt="Martin Hauske" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="speaker-name">Mr Martin Hauske</span><br>Asia Pacific Energy Segment Lead<br>Nokia</p>
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/jayant-amresh.jpg" alt="Jayant Amresh" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/jayant-amresh-cropped.jpg" alt="Jayant Amresh" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="speaker-name">Mr Jayant Amresh</span><br>Project Management Lead for Global Transmission Asia<br>Black &amp; Veatch</p>
 	  </td>
@@ -33,7 +33,7 @@ Decentralisation and digitalisation are accelerating our shift toward an intelli
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/gary-ang-chee-kiong.jpg" alt="Gary Ang Chee Kiong" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/gary-ang-chee-kiong-cropped.jpg" alt="Gary Ang Chee Kiong" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="moderator-text">Moderator</span><br><span class="speaker-name">Mr Gary Ang Chee Kiong</span><br>Director<br>SP Group</p>
 	  </td>
