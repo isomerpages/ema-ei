@@ -4,7 +4,6 @@ title: "Improving Tembusu Multi-Utilities Complex (TMUC) Cogeneration Plant Reli
 permalink: "/eishowcase/energy-efficiency/project-five"
 ---
 #### Improving Tembusu Multi-Utilities Complex (TMUC) Cogeneration Plant Reliability and Availability Through Digitalisation
+* Download: [578kB](/files/showcase/energy_efficiency_05.pdf)
 
-<div class="showcase-embed-container">
-	<embed type="application/pdf" src="/files/showcase/energy_efficiency_05.pdf#view=FitH">
-</div>
+![Improving Tembusu Multi-utilities Complex (TMUC) Cogeneration Plant Reliability and Availability Through Digitalisation](/images/showcase/energy_efficiency_05.png)

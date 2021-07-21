@@ -4,7 +4,6 @@ title: "Smart Demand Side Management (Smart-DSM) Integration with Energy Efficie
 permalink: "/eishowcase/energy-efficiency/project-two"
 ---
 #### Smart Demand Side Management (Smart-DSM) Integration with Energy Efficient Thermal Storage System
+* Download: [843kB](/files/showcase/energy_efficiency_02.pdf)
 
-<div class="showcase-embed-container">
-	<embed type="application/pdf" src="/files/showcase/energy_efficiency_02.pdf#view=FitH">
-</div>
+![Smart Demand Side Management (Smart-DSM) Integration with Energy Efficient Thermal Storage System](/images/showcase/energy_efficiency_02.png)
