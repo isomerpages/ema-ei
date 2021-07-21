@@ -1,8 +1,6 @@
 ---
 layout: post
-title: "Platform for Interconnected Micro-Grid Operation (PRIMO) (tbc)"
+title: "Internet of Energy with Advanced Analytics, Modelling, Optimisation and Digitisation for Energy Storage Systems and Renewable Energy Resources"
 permalink: "/eishowcase/next-generation-grid/project-five"
 ---
-#### Platform for Interconnected Micro-Grid Operation (PRIMO) (tbc)
-* Grant Call: EDGE
-* Host Institution: EDF Lab Singapore
+#### Internet of Energy with Advanced Analytics, Modelling, Optimisation and Digitisation for Energy Storage Systems and Renewable Energy Resources
