@@ -34,7 +34,7 @@ sections:
   - infopic:
       title: Energy Storage Systems (ESS)
       subtitle: Video Showcase on
-      description: The increasing use of solar will require ESS to mitigate intermittency challenges. We are partnering industry stakeholders, the research community and other government agencies to co-create innovative ESS solutions.
+      description: The increasing use of solar will require ESS to mitigate intermittency challenges. We are partnering industry stakeholders and the research community to co-create innovative ESS solutions.
       url: https://www.youtube.com/watch?v=55lMxSNTtvs
       image: images/ess-youtube.jpg
       button: Play video
