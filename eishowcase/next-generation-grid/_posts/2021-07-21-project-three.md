@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ACRES: AI-enabled Cyber Resilience for Power Systems"
-permalink: "/eishowcase/next-generation-grid/project-eight"
+permalink: "/eishowcase/next-generation-grid/project-three"
 ---
 #### ACRES: AI-enabled Cyber Resilience for Power Systems
 
