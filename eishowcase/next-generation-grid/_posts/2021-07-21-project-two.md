@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enhancing The Resilience and Reliability of Singapore's LNG/Gas Assets: A Prescriptive Maintenance and Self-configuring Control Framework Using Bigdata and Machine Learning"
-permalink: "/eishowcase/next-generation-grid/project-seven"
+permalink: "/eishowcase/next-generation-grid/project-two"
 ---
 #### Enhancing The Resilience and Reliability of Singapore's LNG/Gas Assets: A Prescriptive Maintenance and Self-configuring Control Framework Using Bigdata and Machine Learning
 
