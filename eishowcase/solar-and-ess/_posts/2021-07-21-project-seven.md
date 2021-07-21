@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ramp Rate Power Injection Demonstrator (RAPID)"
-permalink: "/eishowcase/solar-and-ess/project-twelve"
+permalink: "/eishowcase/solar-and-ess/project-seven"
 ---
 #### Ramp Rate Power Injection Demonstrator (RAPID)
 * Grant Call: 
