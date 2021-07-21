@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Towards Green Datacenters as An Interruptible Load for Grid Stabilisation in Singapore"
-permalink: "/eishowcase/next-generation-grid/project-nine"
+permalink: "/eishowcase/next-generation-grid/project-five"
 ---
 #### Towards Green Datacenters as An Interruptible Load for Grid Stabilisation in Singapore
 
