@@ -9,13 +9,13 @@ To tackle the growing concern of climate change, we will need to change the way 
 <div class="speakers-tbl-container">
   <table>
     <tr>
-	  <td><img src="/images/speakers/ngiam-shih-chun.jpg" alt="Ngiam Shih Chun" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/ngiam-shih-chun-cropped.jpg" alt="Ngiam Shih Chun" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="speaker-name">Mr Ngiam Shih Chun</span><br>Chief Executive<br>Energy Market Authority</p>
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/cindy-lim.jpg" alt="Cindy Lim" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/cindy-lim-cropped.jpg" alt="Cindy Lim" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="speaker-name">Ms Cindy Lim</span><br>Chief Executive Officer<br>Keppel Infrastructure</p>
 	  </td>
@@ -27,13 +27,13 @@ To tackle the growing concern of climate change, we will need to change the way 
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/esther-an.jpg" alt="Esther An" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/esther-an-cropped.jpg" alt="Esther An" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="speaker-name">Ms Esther An</span><br>Chief Sustainability Officer<br>City Developments Limited</p>
 	  </td>
 	</tr>
 	<tr>
-	  <td></td>
+	  <td><img src="/images/speakers/toh-wee-khiang.jpg" alt="Toh Wee Khiang" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="moderator-text">Moderator</span><br><span class="speaker-name">Mr Toh Wee Khiang</span><br>Director, National Energy Transformation Office<br>Energy Market Authority</p>
 	  </td>

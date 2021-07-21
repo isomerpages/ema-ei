@@ -9,7 +9,7 @@ sections:
       subtitle: 
       background: /images/banner.png
       button: Go to Event
-      url: "https://energyinnovation.ema.gov.sg/energy-innovation-2021/virtual-event/"
+      url: "/energy-innovation-2021/virtual-event/"
       key_highlights:
         - title: Natural Gas
           description: 
