@@ -19,7 +19,7 @@ Please click one of the icons below to enter the respective virtual rooms.
   </div>
   <div class="row-wrapper even">
     <div class="item-wrapper">
-	  <a href="#">
+	  <a href="/eishowcase/">
 	    <div class="icon-wrapper">
 	      <img src="/images/pre-event-exhibition.png" alt="Pre-Event Exhibition" />
 	    </div>
