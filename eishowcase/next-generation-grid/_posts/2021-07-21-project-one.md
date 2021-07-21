@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enhancing Power System Resilience Through Distributed Intelligence and Adaptive Infrastructure"
-permalink: "/eishowcase/next-generation-grid/project-six"
+permalink: "/eishowcase/next-generation-grid/project-one"
 ---
 #### Enhancing Power System Resilience Through Distributed Intelligence and Adaptive Infrastructure
 
