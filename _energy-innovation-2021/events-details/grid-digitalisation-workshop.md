@@ -15,7 +15,7 @@ Decentralisation and digitalisation are accelerating our shift toward an intelli
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/martin-hauske-cropped.jpg" alt="Martin Hauske" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/martin-hauske-cropped.png" alt="Martin Hauske" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="speaker-name">Mr Martin Hauske</span><br>Asia Pacific Energy Segment Lead<br>Nokia</p>
 	  </td>
