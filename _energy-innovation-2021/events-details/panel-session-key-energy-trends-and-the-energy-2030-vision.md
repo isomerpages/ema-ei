@@ -9,7 +9,7 @@ To tackle the growing concern of climate change, we will need to change the way 
 <div class="speakers-tbl-container">
   <table>
     <tr>
-	  <td><img src="/images/speakers/ngiam-shih-chun-cropped.jpg" alt="Ngiam Shih Chun" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/ngiam-shih-chun.png" alt="Ngiam Shih Chun" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="speaker-name">Mr Ngiam Shih Chun</span><br>Chief Executive<br>Energy Market Authority</p>
 	  </td>
