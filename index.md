@@ -31,6 +31,14 @@ sections:
       image: images/digitalisation-youtube.png
       button: Play video
       alt: Digitalisation
+  - infopic:
+      title: Energy Storage Systems (ESS)
+      subtitle: Video Showcase To Be Released
+      description: The increasing use of solar will require ESS to mitigate intermittency challenges. We are partnering industry stakeholders and the research community to co-create innovative ESS solutions.
+      url: 
+      image: images/ess-youtube.jpg
+      button: 
+      alt: ESS
   - resources:
         title: "Energy Innovation Showcase"
         subtitle: "Latest Projects"
