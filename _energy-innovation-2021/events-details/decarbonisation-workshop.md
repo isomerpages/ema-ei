@@ -34,6 +34,3 @@ Low-carbon technological solutions such as hydrogen and carbon capture, utilisat
 	</tr>
   </table>
 </div>
-
-Find out more about the Green Compass Initiative here:
-<img src="/images/green_compass_initiative.png" alt="Green Compass Initiative" />
