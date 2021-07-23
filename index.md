@@ -35,9 +35,9 @@ sections:
       title: Energy Storage Systems (ESS)
       subtitle: Video Showcase To Be Released
       description: The increasing use of solar will require ESS to mitigate intermittency challenges. We are partnering industry stakeholders and the research community to co-create innovative ESS solutions.
-      url: 
+      url: https://www.youtube.com/watch?v=55lMxSNTtvs
       image: images/ess-youtube.jpg
-      button: 
+      button: Play video
       alt: ESS
   - resources:
         title: "Energy Innovation Showcase"
