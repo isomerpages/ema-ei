@@ -8,8 +8,8 @@ sections:
   - hero:
       subtitle: 
       background: /images/banner.png
-      button: Go to Event
-      url: "/energy-innovation-2021/virtual-event/"
+#      button: Go to Event
+#      url: "/energy-innovation-2021/virtual-event/"
       key_highlights:
         - title: Natural Gas
           description: 
