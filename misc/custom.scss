@@ -403,6 +403,7 @@ $desktop: 960px + (2 * $gap) !default;
 	display: flex;
 	align-items: center;
 	justify-content: space-around;
+	margin-bottom: 30px;
 }
 .partner-logo-wrapper:not(:last-child){
 	padding-right: 10px;
