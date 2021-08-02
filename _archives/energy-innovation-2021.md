@@ -3,3 +3,29 @@ title: Energy Innovation 2021
 permalink: /archives/energy-innovation-2021/
 ---
 
+### **Decarbonisation Technical Workshop**
+
+| **Presentation** | **Download** |
+|---|----:|
+| **Energy research to provide solutions for the dual challenge**<br>*Presenter: Adam Usadi, Energy Center Advisor, ExxonMobil* | [1.46MB](/files/archives/decarbonisation-technical-workshop-adam-usadi.pdf) |
+| **H2FC Research @ NTU**<br>*Presenter: Dr. SH Chan, Professor & President's Chair in Energy, Energy Research Institute @ NTU (ERI@N)* | [2.97MB](/files/archives/decarbonisation-technical-workshop-chan-siew-hwa.pdf) |
+| **CCUS Capabilities and Initiatives at ICES, A\*STAR**<br>*Presenter: Dr Chen Luwei, Process & Catalysis Research, Institute of Chemical and Engineering Sciences, A\*STAR* | [2.16MB](/files/archives/decarbonisation-technical-workshop-chen-luwei.pdf) |
+
+### **Grid Digitalisation Workshop**
+
+| **Presentation** | **Download** |
+|---|----:|
+| **Future Grid**<br>*Presenter: Gary Ang, Director, SP Group* | [3.59MB](/files/archives/grid-digitalisation-workshop-gary-ang.pdf) |
+
+### **Startups Showcase**
+
+| **Presentation** | **Download** |
+|---|----:|
+| **V-Flow Tech** | [1.86MB](/files/archives/startups-showcase-VFlowTech.pdf) |
+| **Anzene** | [1.50MB](/files/archives/startups-showcase-Anzene.pdf) |
+| **Resync** | [2.45MB](/files/archives/startups-showcase-Resync.pdf) |
+| **Pylon City** | [1.36MB](/files/archives/startups-showcase-Pylon-City.pdf) |
+| **QE-Labs** | [2.01MB](/files/archives/startups-showcase-QE-Labs.pdf) |
+| **EtaVolt** | [1.32MB](/files/archives/startups-showcase-EtaVolt.pdf) |
+| **Sun GreenH2** | [5.29MB](/files/archives/startups-showcase-SunGreenH2.pdf) |
+| **Divigas** | [5.29MB](/files/archives/startups-showcase-Divigas.pdf) |
