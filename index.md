@@ -8,7 +8,7 @@ sections:
   - hero:
       subtitle: 
       background: /images/siew2021_banner02.png
-      button: Find out more
+      button: Register Here
       url: https://www.siew.gov.sg/
       key_highlights:
         - title: Natural Gas
