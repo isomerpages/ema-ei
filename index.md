@@ -7,7 +7,7 @@ permalink: /
 sections:
   - hero:
       subtitle: 
-      background: /images/siew2021_banner.png
+      background: /images/siew2021_banner-1.png
       button: Find out more
       url: https://www.siew.gov.sg/
       key_highlights:
