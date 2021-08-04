@@ -7,7 +7,7 @@ permalink: /
 sections:
   - hero:
       subtitle: 
-      background: /images/siew2021_banner02.png
+      background: /images/siew2021_banner.png
       button: Register Here
       url: https://www.siew.gov.sg/
       key_highlights:
