@@ -7,9 +7,9 @@ permalink: /
 sections:
   - hero:
       subtitle: 
-      background: /images/banner.png
-      button: Go to Event
-      url: "/energy-innovation-2021/"
+      background: /images/siew2021_banner.jpg
+      button: Find out more
+      url: https://www.siew.gov.sg/
       key_highlights:
         - title: Natural Gas
           description: 
