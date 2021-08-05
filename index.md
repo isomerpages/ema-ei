@@ -7,9 +7,9 @@ permalink: /
 sections:
   - hero:
       subtitle: 
-      background: /images/banner.png
-      button: Go to Event
-      url: "/energy-innovation-2021/virtual-event/"
+      background: /images/siew2021_banner.png
+      button: Register Here
+      url: https://www.siew.gov.sg/
       key_highlights:
         - title: Natural Gas
           description: 
@@ -33,7 +33,7 @@ sections:
       alt: Digitalisation
   - infopic:
       title: Energy Storage Systems (ESS)
-      subtitle: Video Showcase To Be Released
+      subtitle: Video Showcase on
       description: The increasing use of solar will require ESS to mitigate intermittency challenges. We are partnering industry stakeholders and the research community to co-create innovative ESS solutions.
       url: https://www.youtube.com/watch?v=55lMxSNTtvs
       image: images/ess-youtube.jpg

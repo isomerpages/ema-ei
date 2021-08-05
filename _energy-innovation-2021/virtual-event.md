@@ -2,6 +2,7 @@
 title: Virtual Event Space
 permalink: energy-innovation-2021/virtual-event/
 date: 2021-07-09 01:00:00
+published: false
 ---
 Please click one of the icons below to enter the respective virtual rooms.
 
