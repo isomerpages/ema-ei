@@ -26,9 +26,10 @@ sections:
   - infopic:
       title: Digitalisation
       subtitle: Video Showcase on
-      description: Digitalisation plays a big role in shaping tomorrow's energy future. We are working with the industry and research community to co-create innovative solutions to digitalise the energy sector to improve productivity and efficiency, maintain grid resilience and achieve carbon abatement.
-      url: https://www.youtube.com/watch?v=8GeVbacC9X8
-      image: images/digitalisation-youtube.png
+      description: </p><p>Digitalisation plays a big role in shaping tomorrow's energy future. We are working with the industry and research community to co-create innovative solutions to digitalise the energy sector to improve productivity and efficiency, maintain grid resilience and achieve carbon abatement.</p><figure class="mse-infopic-media-right is-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/8GeVbacC9X8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p class="mse-none">
+#      url: https://www.youtube.com/watch?v=8GeVbacC9X8
+#     image: images/digitalisation-youtube.png
+      image: https://img.youtube.com/vi/8GeVbacC9X8/maxresdefault.jpg
       button: Play video
       alt: Digitalisation
   - infopic:
