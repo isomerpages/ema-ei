@@ -9,7 +9,7 @@ permalink: /archives/energy-innovation-2021/
 
 ### **Decarbonisation Technical Workshop**
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BPjlcqeRTrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BPjlcqeRTrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br/>
 
 | **Presentation** | **Download** |
 |---|----:|
@@ -19,7 +19,7 @@ permalink: /archives/energy-innovation-2021/
 
 ### **Grid Digitalisation Workshop**
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/tr5G06ybKuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/tr5G06ybKuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br/>
 
 | **Presentation** | **Download** |
 |---|----:|
@@ -27,7 +27,7 @@ permalink: /archives/energy-innovation-2021/
 
 ### **Startups Showcase**
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/N18cGfKVyFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/N18cGfKVyFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br/>
 
 | **Presentation** | **Download** |
 |---|----:|
