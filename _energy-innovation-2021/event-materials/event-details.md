@@ -1,5 +1,5 @@
 ---
-title: Energy Innovation 2021
+title: Event Details
 permalink: /energy-innovation-2021/event-materials/event-details/
 third_nav_title: Energy Innovation 2021
 date: 2021-07-10 03:00:00
