@@ -8,8 +8,32 @@ Low-carbon technological solutions such as hydrogen and carbon capture, utilisat
 
 <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BPjlcqeRTrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br/>
 
-| **Presentation** | **Download** |
-|---|----:|
-| **Energy research to provide solutions for the dual challenge**<br>*Presenter: Adam Usadi, Energy Center Advisor, ExxonMobil* | [1.46MB](/files/archives/decarbonisation-technical-workshop-adam-usadi.pdf) |
-| **H2FC Research @ NTU**<br>*Presenter: Dr. SH Chan, Professor & President's Chair in Energy, Energy Research Institute @ NTU (ERI@N)* | [2.97MB](/files/archives/decarbonisation-technical-workshop-chan-siew-hwa.pdf) |
-| **CCUS Capabilities and Initiatives at ICES, A\*STAR**<br>*Presenter: Dr Chen Luwei, Process & Catalysis Research, Institute of Chemical and Engineering Sciences, A\*STAR* | [2.16MB](/files/archives/decarbonisation-technical-workshop-chen-luwei.pdf) |
+<div class="speakers-tbl-container">
+  <table>
+    <tr>
+	  <td><img src="/images/speakers/chen-luwei.jpg" alt="Chen Luwei" width="180" height="240" /></td>
+	  <td>
+	    <p><span class="speaker-name">Associate Professor Chen Luwei</span><br>Senior Scientist<br>Institute of Chemical and Engineering Sciences (ICES), A&ast;STAR
+      <br><a href="/files/archives/decarbonisation-technical-workshop-chen-luwei.pdf">1.46MB<span class="sgds-icon sgds-icon-external"></span></a></p>
+	  </td>
+	</tr>
+	<tr>
+	  <td><img src="/images/speakers/chan-siew-hwa.jpg" alt="Chan Siew Hwa" width="180" height="240" /></td>
+	  <td>
+	    <p><span class="speaker-name">Professor Chan Siew Hwa</span><br>Co-Director<br>Energy Research Institute &commat; Nanyang Technological University (ERI&commat;N)<br><a href="/files/archives/decarbonisation-technical-workshop-chan-siew-hwa.pdf">2.97MB<span class="sgds-icon sgds-icon-external"></span></a></p>
+	  </td>
+	</tr>
+	<tr>
+	  <td><img src="/images/speakers/adam-usadi-cropped.jpg" alt="Adam Usadi" width="180" height="240" /></td>
+	  <td>
+	    <p><span class="speaker-name">Dr Adam Usadi</span><br>Energy Centre Advisor<br>ExxonMobil<br><a href="/files/archives/decarbonisation-technical-workshop-adam-usadi.pdf">1.46MB<span class="sgds-icon sgds-icon-external"></span></a></p>
+	  </td>
+	</tr>
+	<tr>
+	  <td><img src="/images/speakers/connie-liu-cropped.jpg" alt="Connie Liu" width="180" height="240" /></td>
+	  <td>
+	    <p><span class="moderator-text">Moderator</span><br><span class="speaker-name">Dr Connie Liu</span><br>Acting Head of Strategy Management<br>Institute of Chemical and Engineering Sciences (ICES), A&ast;STAR</p>
+	  </td>
+	</tr>
+  </table>
+</div> 
