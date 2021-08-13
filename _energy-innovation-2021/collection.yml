@@ -2,7 +2,6 @@ collections:
   energy-innovation-2021:
     output: true
     order:
-      - ei2021.md
 #      - virtual-event.md
       - energy-innovation-2021/.keep
       - energy-innovation-2021/event-materials/event-details.md
