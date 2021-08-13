@@ -1,6 +1,7 @@
 ---
 title: Energy Innovation 2021
 permalink: /archives/energy-innovation-2021/
+published: false
 ---
 
 ### **Panel Session on Key Energy Trends and the Energy 2030 Vision at Energy Innovation 2021**
