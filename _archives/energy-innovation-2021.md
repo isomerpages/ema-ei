@@ -7,7 +7,7 @@ permalink: /archives/energy-innovation-2021/
 <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BG-8SA7NviY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### **Decarbonisation Technical Workshop**
-<br><div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BPjlcqeRTrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></br>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BPjlcqeRTrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br/>
 
 
 | **Presentation** | **Download** |
@@ -17,7 +17,7 @@ permalink: /archives/energy-innovation-2021/
 | **CCUS Capabilities and Initiatives at ICES, A\*STAR**<br>*Presenter: Dr Chen Luwei, Process & Catalysis Research, Institute of Chemical and Engineering Sciences, A\*STAR* | [2.16MB](/files/archives/decarbonisation-technical-workshop-chen-luwei.pdf) |
 
 ### **Grid Digitalisation Workshop**
-<br><div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/tr5G06ybKuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></br>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/tr5G06ybKuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br/>
 
 
 | **Presentation** | **Download** |
@@ -25,7 +25,7 @@ permalink: /archives/energy-innovation-2021/
 | **Future Grid**<br>*Presenters: Eric Jost, Partner, Advisory Power and Utilities (ASEAN), Ernst & Young Advisory; Martin Hauske, Asia Pacific Energy Segment Lead, Nokia; Jayant Amresh, Project Management Lead for Global Transmission Asia, Black & Veatch; Nugroho Prananto Utomo, Senior Consultant, DNV Singapore; Gary Ang, Director, SP Group* | [3.59MB](/files/archives/grid-digitalisation-workshop-gary-ang.pdf) |
 
 ### **Startups Showcase**
-<br><div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/N18cGfKVyFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></br>
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/N18cGfKVyFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br/>
 
 
 | **Presentation** | **Download** |
