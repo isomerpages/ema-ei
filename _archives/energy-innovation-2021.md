@@ -14,6 +14,7 @@ permalink: /archives/energy-innovation-2021/
 | **H2FC Research @ NTU**<br>*Presenter: Dr. SH Chan, Professor & President's Chair in Energy, Energy Research Institute @ NTU (ERI@N)* | [2.97MB](/files/archives/decarbonisation-technical-workshop-chan-siew-hwa.pdf) |
 | **CCUS Capabilities and Initiatives at ICES, A\*STAR**<br>*Presenter: Dr Chen Luwei, Process & Catalysis Research, Institute of Chemical and Engineering Sciences, A\*STAR* | [2.16MB](/files/archives/decarbonisation-technical-workshop-chen-luwei.pdf) |
 
+
 <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BPjlcqeRTrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### **Grid Digitalisation Workshop**
@@ -34,5 +35,6 @@ permalink: /archives/energy-innovation-2021/
 | **EtaVolt** | [1.32MB](/files/archives/startups-showcase-EtaVolt.pdf) |
 | **Sun GreenH2** | [5.29MB](/files/archives/startups-showcase-SunGreenH2.pdf) |
 | **Divigas** | [5.29MB](/files/archives/startups-showcase-Divigas.pdf) |
+
 
 <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/N18cGfKVyFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
