@@ -23,6 +23,9 @@ permalink: /archives/energy-innovation-2021/
 |---|----:|
 | **Future Grid**<br>*Presenters: Eric Jost, Partner, Advisory Power and Utilities (ASEAN), Ernst & Young Advisory; Martin Hauske, Asia Pacific Energy Segment Lead, Nokia; Jayant Amresh, Project Management Lead for Global Transmission Asia, Black & Veatch; Nugroho Prananto Utomo, Senior Consultant, DNV Singapore; Gary Ang, Director, SP Group* | [3.59MB](/files/archives/grid-digitalisation-workshop-gary-ang.pdf) |
 
+
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/tr5G06ybKuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ### **Startups Showcase**
 
 | **Presentation** | **Download** |
