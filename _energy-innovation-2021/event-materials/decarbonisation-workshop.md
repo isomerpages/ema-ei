@@ -1,7 +1,7 @@
 ---
 title: Decarbonisation Workshop
-permalink: /energy-innovation-2021/event-details/decarbonisation-workshop/
-third_nav_title: Event Details
+permalink: /energy-innovation-2021/event-materials/decarbonisation-workshop/
+third_nav_title: Event Materials
 date: 2021-07-10 02:00:00
 ---
 Low-carbon technological solutions such as hydrogen and carbon capture, utilisation and storage (CCUS) will play an important role in our transition to a low-carbon future. In this workshop, speakers will share on the technologies, capabilities and initiatives in Singapore's decarbonisation scene.
