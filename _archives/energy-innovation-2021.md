@@ -3,6 +3,9 @@ title: Energy Innovation 2021
 permalink: /archives/energy-innovation-2021/
 ---
 
+### **Panel Session on Key Energy Trends and the Energy 2030 Vision at Energy Innovation 2021**
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BG-8SA7NviY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ### **Decarbonisation Technical Workshop**
 
 | **Presentation** | **Download** |
@@ -10,6 +13,8 @@ permalink: /archives/energy-innovation-2021/
 | **Energy research to provide solutions for the dual challenge**<br>*Presenter: Adam Usadi, Energy Center Advisor, ExxonMobil* | [1.46MB](/files/archives/decarbonisation-technical-workshop-adam-usadi.pdf) |
 | **H2FC Research @ NTU**<br>*Presenter: Dr. SH Chan, Professor & President's Chair in Energy, Energy Research Institute @ NTU (ERI@N)* | [2.97MB](/files/archives/decarbonisation-technical-workshop-chan-siew-hwa.pdf) |
 | **CCUS Capabilities and Initiatives at ICES, A\*STAR**<br>*Presenter: Dr Chen Luwei, Process & Catalysis Research, Institute of Chemical and Engineering Sciences, A\*STAR* | [2.16MB](/files/archives/decarbonisation-technical-workshop-chen-luwei.pdf) |
+
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BPjlcqeRTrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### **Grid Digitalisation Workshop**
 
@@ -30,11 +35,4 @@ permalink: /archives/energy-innovation-2021/
 | **Sun GreenH2** | [5.29MB](/files/archives/startups-showcase-SunGreenH2.pdf) |
 | **Divigas** | [5.29MB](/files/archives/startups-showcase-Divigas.pdf) |
 
-### **Panel Session on Key Energy Trends and the Energy 2030 Vision at Energy Innovation 2021**
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BG-8SA7NviY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-### **Decarbonisation Technical Workshop at Energy Innovation 2021**
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BPjlcqeRTrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-### **Startups Showcase at Energy Innovation 2021**
 <div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/N18cGfKVyFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
