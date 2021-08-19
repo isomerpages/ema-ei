@@ -2,10 +2,9 @@ collections:
   energy-innovation-2021:
     output: true
     order:
-      - ei2021.md
+      - energy-innovation-2021/event-materials/00-programme-details.md
+      - energy-innovation-2021/event-materials/panel-session-key-energy-trends-and-the-energy-2030-vision.md
+      - energy-innovation-2021/event-materials/decarbonisation-workshop.md
+      - energy-innovation-2021/event-materials/grid-digitalisation-workshop.md
+      - energy-innovation-2021/event-materials/startups-showcase.md
 #      - virtual-event.md
-      - energy-innovation-2021/.keep
-      - energy-innovation-2021/event-details/panel-session-key-energy-trends-and-the-energy-2030-vision.md
-      - energy-innovation-2021/event-details/decarbonisation-workshop.md
-      - energy-innovation-2021/event-details/grid-digitalisation-workshop.md
-      - energy-innovation-2021/event-details/startups-showcase.md

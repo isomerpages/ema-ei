@@ -3,6 +3,7 @@ title: Grid Digitalisation Workshop
 permalink: /energy-innovation-2021/event-details/grid-digitalisation-workshop/
 third_nav_title: Event Details
 date: 2021-07-10 03:00:00
+published: false
 ---
 Decentralisation and digitalisation are accelerating our shift toward an intelligent grid that is predictive and responsive in real-time. In this workshop, speakers will share about the opportunities and challenges faced in the transition to a digital grid, including areas in control systems, data science, grid architecture and cyber security.
 
