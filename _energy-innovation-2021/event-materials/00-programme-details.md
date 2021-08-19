@@ -2,7 +2,6 @@
 title: Programme Details
 permalink: /energy-innovation-2021/event-materials/programme-details/
 third_nav_title: Energy Innovation 2021
-date: 2021-07-10 03:00:00
 ---
 ![Energy Innovation 2021](/images/banner-concept.png)
 
