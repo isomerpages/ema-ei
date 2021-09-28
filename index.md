@@ -26,7 +26,7 @@ sections:
   - infopic:
       title: EI 2021 Highlights
       subtitle: Video Showcase on
-      description: </p><p>The Energy Market Authority (EMA)’s first ever virtual Energy Innovation 2021 allowed for knowledge sharing and networking amongst the industry players and research community. Find out more of what happened on our Energy Innovation website, and we look forward to seeing you at our upcoming Energy Innovation and EMA events.</p><figure class="mse-infopic-media-right is-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/8GeVbacC9X8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p class="mse-none">
+      description: </p><p>Pending Caption. Find out more of what happened on our Energy Innovation website, and we look forward to seeing you at our upcoming Energy Innovation and EMA events.</p><figure class="mse-infopic-media-right is-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/8GeVbacC9X8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p class="mse-none">
       url: https://www.youtube.com/watch?v=8GeVbacC9X8
       image: images/banner-concept.png
       button: Find out more
