@@ -23,7 +23,7 @@ sections:
         - title: Energy Efficiency
           description: 
           url: /eishowcase/energy-efficiency/
-- infopic:
+  - infopic:
       title: Digitalisation
       subtitle: Video Showcase on
       description: </p><p>Digitalisation plays a big role in shaping tomorrow's energy future. We are working with the industry and research community to co-create innovative solutions to digitalise the energy sector to improve productivity and efficiency, maintain grid resilience and achieve carbon abatement.</p><figure class="mse-infopic-media-left is-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/8GeVbacC9X8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure><p class="mse-none">
