@@ -7,9 +7,9 @@ permalink: /
 sections:
   - hero:
       subtitle: 
-      background: /images/siew2021_banner.png
-      button: Register Here
-      url: https://www.siew.gov.sg/
+      background: /images/banner-concept.png
+      button: Find out more
+      url: energyinnovation.ema.gov.sg/eishowcase/
       key_highlights:
         - title: Natural Gas
           description: 
