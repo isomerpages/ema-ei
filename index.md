@@ -7,7 +7,7 @@ permalink: /
 sections:
   - hero:
       subtitle: 
-      background: /images/banner-concept.png
+      background: /images/banner.png
       button: Find out more
       url: energyinnovation.ema.gov.sg/eishowcase/
       key_highlights:
