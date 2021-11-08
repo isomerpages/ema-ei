@@ -9,7 +9,7 @@ sections:
       subtitle: 
       background: /images/banner.png
       button: Find out more
-      url: energyinnovation.ema.gov.sg/eishowcase/
+      url: http://www.netzerostartup.sg
       key_highlights:
         - title: Natural Gas
           description: 
