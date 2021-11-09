@@ -7,7 +7,7 @@ permalink: /
 sections:
   - hero:
       subtitle: 
-      background: /images/banner.png
+      background: /images/Picture1.png
       button: Find out more
       url: http://www.netzerostartup.sg
       key_highlights:
