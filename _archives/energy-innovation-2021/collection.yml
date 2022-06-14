@@ -1,5 +1,5 @@
 collections:
-  archives:
+  energy-innovation-2021:
     output: true
     order:
       - energy-innovation-2021/event-materials/00-programme-details.md
@@ -7,3 +7,4 @@ collections:
       - energy-innovation-2021/event-materials/decarbonisation-workshop.md
       - energy-innovation-2021/event-materials/grid-digitalisation-workshop.md
       - energy-innovation-2021/event-materials/startups-showcase.md
+#      - virtual-event.md
