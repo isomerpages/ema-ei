@@ -5,7 +5,7 @@ date: 2021-07-10 01:00:00
 ---
 
 <div class="ema-logo-wrapper">
-	<img src="/images/ema-logo-20years.png" alt="EMA logo - 20 Years and Beyond" />
+	<img src="/images/ema-logo-resize.jpg" alt="Energy Market Authority logo" />
 </div>
 **The Energy Market Authority**
 
