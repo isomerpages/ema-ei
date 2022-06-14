@@ -11,14 +11,14 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
     <div class="organiser-wrapper">
         <p>Organised by:</p>
         <div class="logo-wrapper ema-logo">
-            <img src="/images/ema-logo-20years.png" alt="EMA logo - 20 Years and Beyond"/>
+            <img src="/images/ema-logo-resize.jpg" alt="Energy Market Authority Logo"/>
         </div>
     </div>
     <div class="partners-wrapper">
         <p>In Partnership with:</p>
         <div class="partner-logos-container">
             <div class="partner-logo-wrapper">
-                <img src="/images/us-e-symposia.jpg" alt="Urban Sustainability e-Symposia"/>
+                <img src="/images/infrastructure-asia.png" alt="Infrastructure Asia"/>
             </div>
             <div class="partner-logo-wrapper">
                 <img src="/images/sp-group.png" alt="SP Group"/>
@@ -35,7 +35,7 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
 
 {% if false %}
 <div class="btn-register-container">
-    <a href="/energy-innovation-2021/virtual-event/" class="bp-button is-secondary is-uppercase search-button">Go to Virtual Event Space<span class="sgds-icon sgds-icon-external"></span></a>
+    <a href="/energy-innovation-2022/virtual-event/" class="bp-button is-secondary is-uppercase search-button">Go to Virtual Event Space<span class="sgds-icon sgds-icon-external"></span></a>
 </div>
 {% endif %}
 
@@ -48,69 +48,85 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
         <tr>
             <td>2:00pm</td>
             <td colspan="2">
-                <p class="programme-topic">Energy Innovation Showcase and Virtual Networking Session</p>
+                <p class="programme-topic">Opening Address </p>
+                <p>Ms Low Yen Ling, Minister of State for Ministry of Culture, Community and Youth and Ministry of Trade and Industry</p>
+            </td>
+        </tr>
+        <tr>
+            <td>2:20pm</td>
+            <td colspan="2">
+                <p class="programme-topic">Memorandum of Understanding Signing</p>
             </td>
         </tr>
         <tr>
             <td>2:30pm</td>
             <td colspan="2">
-                <p class="programme-topic">Research Collaboration Agreement Signing on Green Compass Initiative by A&ast;STAR, JTC and TÜV SÜD</p>
-                <p>
-                    <span class="speaker-designation">Find out more about the Green Compass Initiative
-                    <a href="/files/showcase/green_compass_initiative.pdf">here<span class="sgds-icon sgds-icon-external"></span></a>
-					</span>
-                </p>
+                <p class="programme-topic">Keynote Address: Commercialising Technologies for Singapore’s Clean Energy Transition</p>
             </td>
         </tr>
         <tr>
-            <td>3:00pm</td>
+            <td>2:50pm</td>
             <td colspan="2">
-                <p class="programme-topic">Welcome Remarks</p>
-                <p>Ms Low Yen Ling<br>
-                    <span class="speaker-designation">Ministry of Trade and Industry and Minister of State for Ministry of Culture, Community and Youth</span></p>
-            </td>
-        </tr>
-        <tr>
-            <td>3:20pm</td>
-            <td colspan="2">
-                <p class="programme-topic">Panel Session - Key Energy Trends and the Energy 2030 Vision</p>
+                <p class="programme-topic">Discussion Panel 1: Global & Regional Outlook, Trends and Drivers for Clean Energy Industry</p>
                 <p>Mr Ngiam Shih Chun<br>
-                    <span class="speaker-designation">Chief Executive, Energy Market Authority</span></p>
+                <span class="speaker-designation">Chief Executive, Energy Market Authority</span></p>
                 <p>Ms Cindy Lim<br>
-                    <span class="speaker-designation">Chief Executive Officer, Keppel Infrastructure</span></p>
-                <p>Mr Ooi Boon Hoe<br>
-                    <span class="speaker-designation">Chief Executive Officer, Jurong Port</span></p>
-                <p>Ms Esther An<br>
-                    <span class="speaker-designation">Chief Sustainability Officer, City Developments Limited</span></p>
+                <span class="speaker-designation">Chief Executive Officer, Keppel Infrastructure Holdings</span></p>
+                <p>Mr Tan Chong Meng<br>
+                <span class="speaker-designation">Group Chief Executive Officer, PSA International</span></p>
+                <p>Professor Chua Kee Chaing<br>
+                <span class="speaker-designation">President, Singapore Institute of Technology</span></p>
+                <p><u>Moderator</u><br>
+                Professor Chua Kee Chaing<br>
+                <span class="speaker-designation">Director (National Energy Transformation Office), Energy Market Authority</span></p>
             </td>
         </tr>
         <tr>
-            <td>4:00pm</td>
-            <td>
-                <p class="programme-topic">Decarbonisation Workshop</p>
-                <p>Associate Professor Chen Luwei<br>
-                    <span class="speaker-designation">Senior Scientist, Institute of Chemical and Engineering Sciences (ICES), A&ast;STAR</span></p>
-                <p>Professor Chan Siew Hwa<br>
-                    <span class="speaker-designation">Co-Director, Energy Research Institute &commat; Nanyang Technological University (ERI&commat;N)</span></p>
-                <p>Dr Adam Usadi<br>
-                    <span class="speaker-designation">Energy Centre Advisor, ExxonMobil</span></p>
-            </td>
-            <td>
-                <p class="programme-topic">Grid Digitalisation Workshop</p>
-                <p>Mr Eric Jost<br>
-                    <span class="speaker-designation">Partner, Advisory Power and Utilities (ASEAN), Ernst &amp; Young</span></p>
-                <p>Mr Martin Hauske<br>
-                    <span class="speaker-designation">APAC Energy Segment Sales Leader, Nokia</span></p>
-                <p>Mr Jayant Amresh<br>
-                    <span class="speaker-designation">Project Management Lead for Global Transmission Asia, Black &amp; Veatch</span></p>
-                <p>Mr Nugroho Prananto Utomo<br>
-                    <span class="speaker-designation">Senior Consultant, DNV Energy System</span></p>
-            </td>
-        </tr>
-        <tr>
-            <td>5:00pm</td>
+            <td>3:40pm</td>
             <td colspan="2">
-                <p class="programme-topic">Startups Showcase</p>
+                <p class="programme-topic">Discussion Panel 2: Pathways and Strategies for Technology Translation &amp; Commercialisation</p>
+                <p>Mr Ralph Foong<br>
+                <span class="speaker-designation">Deputy Chief Executive (Energy Planning &amp; Development Division &amp; Corporate Services Group), Energy Market Authority</span></p>
+                <p>Mr Sharad Somani<br>
+                <span class="speaker-designation">Executive Director (ASPAC Head of Infrastructure), KPMG</span></p>
+                <p>Mr Nazhar Adnan<br>
+                <span class="speaker-designation">Director (Strategic Development), Temasek Holdings</span></p>
+                <p>Professor Tan Sze Wee<br>
+                <span class="speaker-designation">Assistant Chief Executive (Enterprise), A*STAR</span></p>
+                <p><u>Moderator</u><br>
+                Dr Chiam Sing Yang<br>
+                <span class="speaker-designation">Deputy Executive Director (Institute of Materials Research and Engineering) &amp; Director (Optics &amp; Electronics Division), A*STAR</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td>4:35pm</td>
+            <td>
+                <p class="programme-topic">Workshop 1:<br>Technology Translation in Energy Transition</p>
+                <p>tbd<br>
+                <span class="speaker-designation">Keppel Infrastructure</span></p>
+                <p>tbd<br>
+                <span class="speaker-designation">National University of Singapore</span></p>
+            </td>
+            <td>
+                <p class="programme-topic">Workshop 2:<br>Capturing Clean Energy Opportunities in Asia</p>
+                <p>tbd<br>
+                <span class="speaker-designation">Infrastructure Asia</span></p>
+                <p>tbd<br>
+                <span class="speaker-designation">KPMG</span></p>
+                <p>tbd<br>
+                <span class="speaker-designation">Asian Development Bank</span></p>
+            </td>
+        </tr>
+        <tr>
+            <td>5:25pm</td>
+            <td colspan="2">
+                <p class="programme-topic">Start-up Showcase: Sharing of Local Technology & Research</p>
+            </td>
+        </tr>
+        <tr>
+            <td>6:00pm</td>
+            <td colspan="2">
+                <p class="programme-topic">Closing and Post-event Networking</p>
             </td>
         </tr>
     </table>
