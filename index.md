@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Energy Innovation 2021
+title: Energy Innovation 2022
 description: An annual event to promote collaboration and knowledge-exchange among industry experts and the research community
 image: /images/ema-logo-resize.jpg
 permalink: /

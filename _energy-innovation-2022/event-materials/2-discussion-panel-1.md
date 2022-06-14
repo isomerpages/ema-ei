@@ -1,7 +1,7 @@
 ---
-title: Panel Session - Key Energy Trends and the Energy 2030 Vision
-permalink: /energy-innovation-2021/event-materials/panel-session-key-energy-trends-and-the-energy-2030-vision/
-third_nav_title: Energy Innovation 2021
+title: Discussion Panel 1 - Global & Regional Outlook, Trends and Drivers for Clean Energy Industry
+permalink: /energy-innovation-2022/event-materials/discussion-panel-1-global-regional-outlook-trends-and-drivers-for-clean-energy-industry/
+third_nav_title: Energy Innovation 2022
 ---
 To tackle the growing concern of climate change, we will need to change the way we produce and consume energy. The panellists will discuss their perspectives of the energy outlook and technologies in 2030, and the efforts to support Singapore’s energy transformation.
 
