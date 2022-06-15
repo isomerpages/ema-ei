@@ -16,19 +16,19 @@ Greater impetus in addressing climate change is accelerating the energy transiti
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/cindy-lim-cropped.jpg" alt="Cindy Lim" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/cindy-lim.jpg" alt="Cindy Lim" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="speaker-name">Ms Cindy Lim</span><br>Chief Executive Officer<br>Keppel Infrastructure</p>
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/placeholder.png" alt="Chua Kee Chaing" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/chua-kee-chaing.jpg" alt="Chua Kee Chaing" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="speaker-name">Prof. Chua Kee Chaing</span><br>President<br>Singapore Institute of Technology</p>
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/placeholder.png" alt="Tan Chong Meng" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/tan-chong-meng.jpg" alt="Tan Chong Meng" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="speaker-name">Mr. Tan Chong Meng</span><br>Group Chief Executive Officer<br>PSA International Pte Ltd</p>
 	  </td>

@@ -12,19 +12,25 @@ Rising demand for clean energy solutions have spurred greater interest in clean 
     <tr>
 	  <td><img src="/images/speakers/placeholder.png" alt="Ralph Foong" width="180" height="240" /></td>
 	  <td>
-	    <p><span class="speaker-name">Mr. Ralph Foong</span><br>Deputy Chief Executive<br>Energy Planning & Development Division<br>Corporate Services Group<br>Energy Market Authority<br></p>
+	    <p><span class="speaker-name">Mr. Ralph Foong</span><br>Deputy Chief Executive<br>Energy Planning & Development Division<br>Corporate Services Group<br>Energy Market Authority</p>
 	  </td>
 	</tr>
 	<tr>
 	  <td><img src="/images/speakers/placeholder.png" alt="Sharad Somani" width="180" height="240" /></td>
 	  <td>
-	    <p><span class="speaker-name">Mr Sharad Somani</span><br>Executive Director<br>ASPAC Head of Infrastructure<br>KPMG<br></p>
+	    <p><span class="speaker-name">Mr Sharad Somani</span><br>Executive Director<br>ASPAC Head of Infrastructure<br>KPMG</p>
 	  </td>
 	</tr>
 	<tr>
 	  <td><img src="/images/speakers/placeholder.png" alt="Nazhar Adnan" width="180" height="240" /></td>
 	  <td>
-	    <p><span class="speaker-name">Mr. Nazhar Adnan</span><br>Director<br>Strategic Development<br>Temasek Holdings Ltd<br></p>
+	    <p><span class="speaker-name">Mr. Nazhar Adnan</span><br>Director<br>Strategic Development<br>Temasek Holdings Ltd</p>
+	  </td>
+	</tr>
+	<tr>
+	  <td><img src="/images/speakers/tan-sze-wee.jpg" alt="Tan Sze Wee" width="180" height="240" /></td>
+	  <td>
+	    <p><span class="speaker-name">Prof. Tan Sze Wee</span><br>Assistant Chief Executive<br>Enterprise<br>A*STAR</p>
 	  </td>
 	</tr>
 	<tr>

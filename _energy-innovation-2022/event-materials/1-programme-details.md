@@ -18,16 +18,16 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
         <p>In Partnership with:</p>
         <div class="partner-logos-container">
             <div class="partner-logo-wrapper">
+                <img src="/images/singapore-battery-consortium.png" alt="Singapore Battery Consortium"/>
+            </div>
+            <div class="partner-logo-wrapper">
                 <img src="/images/infrastructure-asia.png" alt="Infrastructure Asia"/>
             </div>
             <div class="partner-logo-wrapper">
-                <img src="/images/sp-group.png" alt="SP Group"/>
+                <img src="/images/envision-digital.png" alt="Envision Digital"/>
             </div>
             <div class="partner-logo-wrapper">
-                <img src="/images/ecolabs.svg" alt="EcoLabs"/>
-            </div>
-            <div class="partner-logo-wrapper">
-                <img src="/images/a-star.png" alt="A*STAR"/>
+                <img src="/images/keppel-infrastructure.png" alt="Keppel Infrastructure"/>
             </div>
         </div>
     </div>
