@@ -3,35 +3,34 @@ title: Discussion Panel 2 - Pathways and Strategies for Technology Translation &
 permalink: /energy-innovation-2022/event-materials/discussion-panel-2-pathways-and-strategies-for-technology-translation-commercialisation/
 third_nav_title: Energy Innovation 2022
 ---
-Low-carbon technological solutions such as hydrogen and carbon capture, utilisation and storage (CCUS) will play an important role in our transition to a low-carbon future. In this workshop, speakers will share on the technologies, capabilities and initiatives in Singapore's decarbonisation scene.
+Rising demand for clean energy solutions have spurred greater interest in clean energy research and innovation. The proliferation of clean energy technologies along with new strategic investors and partners have provided opportunities to translate deployment in the local and regional markets. The panellists will discuss their perspectives on the pathways and strategies to translate, commercialise and scale up clean energy solutions in the local and global markets.
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BPjlcqeRTrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align: center;"></div>
 
 <div class="speakers-tbl-container">
   <table>
     <tr>
-	  <td><img src="/images/speakers/chen-luwei.jpg" alt="Chen Luwei" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/placeholder.png" alt="Ralph Foong" width="180" height="240" /></td>
 	  <td>
-	    <p><span class="moderator-text">CCUS Capabilities and Initiatives at ICES, A&ast;STAR</span><br><span class="speaker-name">Associate Professor Chen Luwei</span><br>Senior Scientist<br>Institute of Chemical and Engineering Sciences (ICES), A&ast;STAR
-      <br><a href="/files/archives/decarbonisation-technical-workshop-chen-luwei.pdf">1.46MB<span class="sgds-icon sgds-icon-external"></span></a></p>
+	    <p><span class="speaker-name">Mr. Ralph Foong</span><br>Deputy Chief Executive<br>Energy Planning & Development Division<br>Corporate Services Group<br>Energy Market Authority<br></p>
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/chan-siew-hwa.jpg" alt="Chan Siew Hwa" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/placeholder.png" alt="Sharad Somani" width="180" height="240" /></td>
 	  <td>
-	    <p><span class="moderator-text">H2FC Research &commat; NTU</span><br><span class="speaker-name">Professor Chan Siew Hwa</span><br>Co-Director<br>Energy Research Institute &commat; Nanyang Technological University (ERI&commat;N)<br><a href="/files/archives/decarbonisation-technical-workshop-chan-siew-hwa.pdf">2.97MB<span class="sgds-icon sgds-icon-external"></span></a></p>
+	    <p><span class="speaker-name">Mr Sharad Somani</span><br>Executive Director<br>ASPAC Head of Infrastructure<br>KPMG<br></p>
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/adam-usadi-cropped.jpg" alt="Adam Usadi" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/placeholder.png" alt="Nazhar Adnan" width="180" height="240" /></td>
 	  <td>
-	    <p><span class="moderator-text">Energy research to provide solutions for the dual challenge</span><br><span class="speaker-name">Dr Adam Usadi</span><br>Energy Centre Advisor<br>ExxonMobil<br><a href="/files/archives/decarbonisation-technical-workshop-adam-usadi.pdf">1.46MB<span class="sgds-icon sgds-icon-external"></span></a></p>
+	    <p><span class="speaker-name">Mr. Nazhar Adnan</span><br>Director<br>Strategic Development<br>Temasek Holdings Ltd<br></p>
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/connie-liu-cropped.jpg" alt="Connie Liu" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/placeholder.png" alt="Sing Yang Chiam" width="180" height="240" /></td>
 	  <td>
-	    <p><span class="moderator-text">Moderator</span><br><span class="speaker-name">Dr Connie Liu</span><br>Acting Head of Strategy Management<br>Institute of Chemical and Engineering Sciences (ICES), A&ast;STAR</p>
+	    <p><span class="moderator-text">Moderator</span><br><span class="speaker-name">Dr. Sing Yang Chiam</span><br>Deputy Executive Director<br>Institute of Materials Research & Engineering<br>A*STAR</p>
 	  </td>
 	</tr>
   </table>
