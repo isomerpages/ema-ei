@@ -27,7 +27,7 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
                 <img src="/images/envision-digital.png" alt="Envision Digital"/>
             </div>
             <div class="partner-logo-wrapper">
-                <img src="/images/keppel-infrastructure.png" alt="Keppel Infrastructure"/>
+                <img src="/images/keppel-infrastructure.png" alt="Keppel Infrastructure" style="max-width: 200px; height: auto;"/>
             </div>
         </div>
     </div>
