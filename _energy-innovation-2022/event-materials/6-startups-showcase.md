@@ -3,67 +3,35 @@ title: Startups Showcase
 permalink: /energy-innovation-2022/event-materials/startups-showcase/
 third_nav_title: Energy Innovation 2022
 ---
-Startups are crucial elements of the energy ecosystem. They bring with them innovative solutions and business models to develop the ecosystem. Meet local energy innovators that would be sharing on their technologies in energy storage, renewables, energy efficiency and hydrogen.
+Startups are crucial elements of the energy ecosystem. They bring with them innovative solutions and business models to develop the ecosystem. Hear pitches from six start-ups from the EMA-Envision start-up partnership and discover how SMEs are developing their capabilities in renewable energy, urban energy efficiency and low carbon solutions.
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/N18cGfKVyFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align: center;"></div>
 
 <div class="showcase-tbl-container">
   <table>
     <tr>
-	  <td><img src="/images/startups/v-flow-tech.png" alt="V-Flow Tech" width="597" height="296" /></td>
-	  <td>V-Flow Tech (VFT) develops is reinventing vanadium redox flow energy storage solution (ESS), with a vision to develop the cheapest and most scalable stationary ESS in the world. The ESS from VFTwith an has an expected life span of 25 years and. It is proven to be one of the safest and most environmentally friendly battery storage technologies.<br>
-      <br>
-      <a href="/files/archives/startups-showcase-VFlowTech.pdf">1.86MB<span class="sgds-icon sgds-icon-external"></span></a>
-</td>
+	  <td><img src="/images/startups/green-li-ion.png" alt="Green Li-ion" width="245" height="243" /></td>
+	  <td>Green Li-ion is a developer and provider of innovative battery recycling technologies, that have the potential to revolutionise the global battery recycling sector. The company's technologies are modular processing plants that will enable battery recyclers and battery manufacturers to address the pressing need for greater levels of sustainability and security of supply. Green Li-ion solves the existential risk to the precious metals industry and the environment with its world first deep clean technology that fully rejuvenates Lithium-Ion batteries.</td>
 	</tr>
 	<tr>
-	  <td><img src="/images/startups/anzene.png" alt="Anzene" width="859" height="905" /></td>
-	  <td>Anzene Pte. Ltd. (Anzene) aims to standardise the world's safest, strongest, swappable, smart IOT &amp; recyclable battery pack that powers e-mobility & electronics on/ off-grid sustainably with renewable energy.<br>
-      <br>
-      <a href="/files/archives/startups-showcase-Anzene.pdf">1.50MB<span class="sgds-icon sgds-icon-external"></span></a>
-</td>
+	  <td><img src="/images/startups/ampotech.png" alt="Ampotech" width="382" height="91" /></td>
+	  <td>Ampotech develops internet of things (IoT) hardware and AI-enabled software to help businesses collect, analyse, and integrate building and machine electricity usage data for reporting, benchmarking, automation, and facilities management. Ampotech’s products and software are trusted by industry leaders in the energy and real estate sectors, and the company has been recognized for its technology and innovation, winning Singapore International Chamber of Commerce awards in 2020 and 2021.</td>
 	</tr>
 	<tr>
-	  <td><img src="/images/startups/resync.png" alt="Resync" width="1140" height="448" /></td>
-	  <td>Resync uses big data analysis and cutting-edge technology to create energy efficiency solutions, improve sustainability, create new economic benefits, and enhance quality of life factors for people living and working in the city.<br>
-	  <br>
-	  Resync's Intelligent Energy Management system is built and based on its unique in-house developed machine learning algorithms that we have trained and predefined using large amounts of historical data.<br>
-      <br>
-      <a href="/files/archives/startups-showcase-Resync.pdf">2.45MB<span class="sgds-icon sgds-icon-external"></span></a></td>
+	  <td><img src="/images/startups/h3-dynamics.png" alt="H3 Dynamics" width="351" height="235" /></td>
+	  <td>H3 Dynamics enables Advanced Air Mobility with a three-pronged approach that starts with digitization, leading to solutions around autonomous operations, enhances flight autonomy with hydrogen propulsion. The company scales globally over time from small drone to large aircraft platforms, starting with immediate markets. H3 Dynamics is building the future of commercial drone services by combining machine learning, remote tele-robotics, and off-grid capability so that condition monitoring, security and safety solutions can be deployed anywhere, and managed from anywhere.</td>
 	</tr>
 	<tr>
-	  <td><img src="/images/startups/pylon-city.png" alt="Pylon City" width="428" height="214" /></td>
-	  <td>Pylon City is an Internet of Energy (IoE) startup that aspires to make cities greener, smarter and more energy efficient.<br><br>Its Pylon Decentralized Energy Network (PyDEN) is a platform that allow its client to track end-to-end, the generation and consumption of clean energy in their facilities, as well as to automate and account for their energy sustainability goals.<br>
-      <br>
-      <a href="/files/archives/startups-showcase-Pylon-City.pdf">1.36MB<span class="sgds-icon sgds-icon-external"></span></a></td>
+	  <td><img src="/images/startups/vector-infoTech.png" alt="Vector InfoTech" width="405" height="137" /></td>
+	  <td>Vector InfoTech works in partnership with clients to develop customised solutions in the built environment sector. They are a company with experienced field specialists – core strength lies in system integration where they adopt advanced technologies to deliver world-class services to our clients. Vector InfoTech help clients build intelligent infrastructure by creating sustainable solutions that match clients’ unique business needs, so that they can uncover enhanced growth opportunities while accelerating their sustainability journey.</td>
 	</tr>
 	<tr>
-	  <td><img src="/images/startups/qe-labs.png" alt="QE-Labs" width="1299" height="423" /></td>
-	  <td>QE-Labs is a deep-tech spinoff company from SERIS at NUS. The company uses drone electroluminescence (EL) and A.I. big data analytics for fast and accurate identification of defective solar panels, PV system commissioning, O&amp;M, asset transaction, etc.<br>
-      <br>
-      <a href="/files/archives/startups-showcase-QE-Labs.pdf">2.01MB<span class="sgds-icon sgds-icon-external"></span></a></td>
+	  <td><img src="/images/startups/datakrew.png" alt="Datakrew" width="418" height="210" /></td>
+	  <td>Datakrew is a deep-tech IP-driven startup based out of Singapore, with strong roots in IoT, AI & data security. They have built a no-code IoT platform to develop, deploy and manage omnichannel enterprise IoT solutions at scale. Secure and robust IoT solutions built on our platform have been deployed for Energy Generation & Storage, Manufacturing, and Smart Cities. Datakrew’s latest solution is Electric Vehicles Remote Battery Diagnostics for real-time battery performance, prediction, and control.</td>
 	</tr>
 	<tr>
-	  <td><img src="/images/startups/etavolt.png" alt="EtaVolt" width="356" height="143" /></td>
-	  <td>EtaVolt is Singapore's first solar technology company that focuses on regeneration and recycling business of solar panels. There are 2 major business pillars for EtaVolt:<br>
-	  <ul>
-	    <li>Pillar (1) Recycling business: establish green recycling process solution of degraded, damaged or end-of-life PV panels for material conservation; and</li>
-		<li>Pillar (2) Advanced panel regeneration: EtaVolt has been developing solar panel regeneration tech for electrical performance recovery on-site &amp; in factory.</li>
-	  </ul><br>
-      <br>
-      <a href="/files/archives/startups-showcase-EtaVolt.pdf">1.32MB<span class="sgds-icon sgds-icon-external"></span></a></td>
-	</tr>
-	<tr>
-	  <td><img src="/images/startups/sungreenh2.png" alt="Sun GreenH2" width="4068" height="1032" /></td>
-	  <td>Sun GreenH2 is building the world's most efficient electrolyser at low cost. It aims to become the leading global supplier of high performance and cost-effective electrolysers and stacks for end users to integrate into green hydrogen-based energy storage and refuelling solutions, and industrial feedstock.<br>
-      <br>
-      <a href="/files/archives/startups-showcase-SunGreenH2.pdf">5.29MB<span class="sgds-icon sgds-icon-external"></span></a></td>
-	</tr>
-	<tr>
-	  <td><img src="/images/startups/divigas.png" alt="Divigas" width="817" height="522" /></td>
-	  <td>Divigas invented proprietary polymer materials to make a new hydrogen membrane and a nano-molecular filter that allow recovery of hydrogen that is otherwise wasted in production. It is expected to save billions of dollars per year and avoid up to 750 million tons of carbon dioxide emissions by halving the cost of carbon capture.<br>
-      <br>
-      <a href="/files/archives/startups-showcase-Divigas.pdf">5.29MB<span class="sgds-icon sgds-icon-external"></span></a></td>
+	  <td><img src="/images/startups/etavolt_v2.png" alt="EtaVolt" width="261" height="114" /></td>
+	  <td>EtaVolt is a deep tech spin-off from the Nanyang Technological University, poised to deliver effective solar photovoltaic lifecycle management and sustainable solutions to strive towards a circular PV economy, via both maximizing the energy generation capability for existing installed solar systems, and high purity raw materials recovery from decommissioned solar systems. EtaVolt enables the appropriate lifecycle management solutions to maximize the return on investment and reduce the levelized cost of energy for both existing and future solar asset owners and users, while striving towards a zero-carbon energy future.</td>
 	</tr>
   </table>
 </div>

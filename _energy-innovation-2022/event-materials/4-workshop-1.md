@@ -12,10 +12,16 @@ In this sharing session, you will hear from Keppel Infrastructure, National Univ
 <div class="speakers-tbl-container">
   <table>
     <tr>
-	  <td><img src="/images/speakers/placeholder.png" alt="TBD" width="180" height="240" /></td>
-	  <td>
-	    <p><span class="speaker-name">TBD</span><br>tbd<br></p>
-	  </td>
-	</tr>
+      <td><img src="/images/speakers/placeholder.png" alt="TBD" width="180" height="240" /></td>
+      <td>
+        <p><span class="speaker-name">TBD</span><br>tbd<br></p>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/images/speakers/placeholder.png" alt="TBD" width="180" height="240" /></td>
+      <td>
+        <p><span class="moderator-text">Moderator</span><br><span class="speaker-name">TBD</span><br>tbd</p>
+      </td>
+    </tr>
   </table>
 </div>
