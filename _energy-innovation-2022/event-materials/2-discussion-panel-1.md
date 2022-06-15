@@ -3,9 +3,9 @@ title: Discussion Panel 1 - Global & Regional Outlook, Trends and Drivers for Cl
 permalink: /energy-innovation-2022/event-materials/discussion-panel-1-global-regional-outlook-trends-and-drivers-for-clean-energy-industry/
 third_nav_title: Energy Innovation 2022
 ---
-To tackle the growing concern of climate change, we will need to change the way we produce and consume energy. The panellists will discuss their perspectives of the energy outlook and technologies in 2030, and the efforts to support Singapore’s energy transformation.
+Greater impetus in addressing climate change is accelerating the energy transition around the world, with new growth opportunities for the clean energy industry. The panellists will share their perspectives on the energy outlook and trends, and their organisations’ efforts in driving the energy transition.
 
-<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BG-8SA7NviY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align: center;"></div>
 
 <div class="speakers-tbl-container">
   <table>
@@ -22,15 +22,15 @@ To tackle the growing concern of climate change, we will need to change the way 
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/ooi-boon-hoe.jpg" alt="Ooi Boon Hoe" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/placeholder.png" alt="Chua Kee Chaing" width="180" height="240" /></td>
 	  <td>
-	    <p><span class="speaker-name">Mr Ooi Boon Hoe</span><br>Chief Executive Officer<br>Jurong Port</p>
+	    <p><span class="speaker-name">Prof. Chua Kee Chaing</span><br>President<br>Singapore Institute of Technology</p>
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/esther-an-cropped.jpg" alt="Esther An" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/placeholder.png" alt="Tan Chong Meng" width="180" height="240" /></td>
 	  <td>
-	    <p><span class="speaker-name">Ms Esther An</span><br>Chief Sustainability Officer<br>City Developments Limited</p>
+	    <p><span class="speaker-name">Mr. Tan Chong Meng</span><br>Group Chief Executive Officer<br>PSA International Pte Ltd</p>
 	  </td>
 	</tr>
 	<tr>
