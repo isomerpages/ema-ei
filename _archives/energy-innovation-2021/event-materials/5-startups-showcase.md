@@ -1,6 +1,6 @@
 ---
 title: Startups Showcase
-permalink: /energy-innovation-2021/event-materials/startups-showcase/
+permalink: /archives/energy-innovation-2021/event-materials/startups-showcase/
 third_nav_title: Energy Innovation 2021
 ---
 Startups are crucial elements of the energy ecosystem. They bring with them innovative solutions and business models to develop the ecosystem. Meet local energy innovators that would be sharing on their technologies in energy storage, renewables, energy efficiency and hydrogen.

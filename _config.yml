@@ -1,4 +1,4 @@
-title: Energy Innovation 2021
+title: Energy Innovation 2022
 url: "https://energyinnovation.ema.gov.sg/" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon.ico
 
@@ -21,7 +21,7 @@ colors:
 collections:
   about:
     output: true
-  energy-innovation-2021:
+  energy-innovation-2022:
     output: true
   energy-connects:
     output: true
