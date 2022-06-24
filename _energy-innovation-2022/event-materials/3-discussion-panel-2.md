@@ -10,7 +10,7 @@ Rising demand for clean energy solutions have spurred greater interest in clean 
 <div class="speakers-tbl-container">
   <table>
     <tr>
-	  <td><img src="/images/speakers/placeholder.png" alt="Ralph Foong" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/ralph-foong.jpg" alt="Ralph Foong" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="speaker-name">Mr. Ralph Foong</span><br>Deputy Chief Executive<br>Energy Planning & Development Division<br>Corporate Services Group<br>Energy Market Authority</p>
 	  </td>

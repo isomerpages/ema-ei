@@ -102,19 +102,24 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
             <td>4:35pm</td>
             <td>
                 <p class="programme-topic">Workshop 1:<br>Technology Translation in Energy Transition</p>
-                <p>tbd<br>
-                <span class="speaker-designation">Keppel Infrastructure</span></p>
-                <p>tbd<br>
-                <span class="speaker-designation">National University of Singapore</span></p>
+                <p>Mr Poh Tiong Keng<br>
+                <span class="speaker-designation">GM, Corporate Innovation<br>
+                KepInfra Energy Transition Centre</span></p>
+                <p>Mr George Loh<br>
+                <span class="speaker-designation">Senior Director, Strategic Collaboration &amp; Partnership<br>
+                National University of Singapore</span></p>
             </td>
             <td>
                 <p class="programme-topic">Workshop 2:<br>Capturing Clean Energy Opportunities in Asia</p>
-                <p>tbd<br>
-                <span class="speaker-designation">Infrastructure Asia</span></p>
-                <p>tbd<br>
-                <span class="speaker-designation">KPMG</span></p>
-                <p>tbd<br>
-                <span class="speaker-designation">Asian Development Bank</span></p>
+                <p>Gayle Tan<br>
+                <span class="speaker-designation">Senior Lead<br>
+                Infrastructure Asia</span></p>
+                <p>Mr Steve Peters<br>
+                <span class="speaker-designation">Senior Energy Specialist (Waste to Energy)<br>
+                Asian Development Bank</span></p>
+                <p>Mr Andrew Craig<br>
+                <span class="speaker-designation">Associate Director (Infrastructure Advisory)<br>
+                KPMG </span></p>
             </td>
         </tr>
         <tr>
