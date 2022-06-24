@@ -28,7 +28,7 @@ In this sharing session, you will hear from Keppel Infrastructure, National Univ
       </td>
     </tr>
     <tr>
-      <td><img src="/images/speakers/placeholder.png" alt="TBD" width="180" height="240" /></td>
+      <td><img src="/images/speakers/subodh-mhaisalkar.jpg" alt="Subodh Mhaisalkar" width="180" height="240" /></td>
       <td>
         <p><span class="speaker-name">Prof. Subodh Mhaisalkar</span><br>
         Chair/Executive Director, Energy Research Institute at NTU (ERI@N)<br>
