@@ -7,9 +7,9 @@ permalink: /
 sections:
   - hero:
       subtitle: 
-      background: /images/Picture1.png
+      background: /images/ei2022-banner.png
       button: Find out more
-      url: http://www.netzerostartup.sg
+      url: energy-innovation-2022/event-materials/programme-details/
       key_highlights:
         - title: Natural Gas
           description: 
