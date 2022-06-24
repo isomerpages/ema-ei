@@ -16,13 +16,13 @@ Rising demand for clean energy solutions have spurred greater interest in clean 
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/placeholder.png" alt="Sharad Somani" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/sharad-somani.jpg" alt="Sharad Somani" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="speaker-name">Mr Sharad Somani</span><br>Executive Director<br>ASPAC Head of Infrastructure<br>KPMG</p>
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/placeholder.png" alt="Nazhar Adnan" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/nazhar-adnan.jpg" alt="Nazhar Adnan" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="speaker-name">Mr. Nazhar Adnan</span><br>Director<br>Strategic Development<br>Temasek Holdings Ltd</p>
 	  </td>
@@ -34,7 +34,7 @@ Rising demand for clean energy solutions have spurred greater interest in clean 
 	  </td>
 	</tr>
 	<tr>
-	  <td><img src="/images/speakers/placeholder.png" alt="Sing Yang Chiam" width="180" height="240" /></td>
+	  <td><img src="/images/speakers/chiam-sing-yang.jpg" alt="Sing Yang Chiam" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="moderator-text">Moderator</span><br><span class="speaker-name">Dr. Sing Yang Chiam</span><br>Deputy Executive Director<br>Institute of Materials Research & Engineering<br>A*STAR</p>
 	  </td>
