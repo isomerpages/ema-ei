@@ -3,7 +3,7 @@ title: Programme Details
 permalink: /energy-innovation-2022/event-materials/programme-details/
 third_nav_title: Energy Innovation 2022
 ---
-![Energy Innovation 2021](/images/banner-concept.png)
+![Energy Innovation 2022](/images/ei2022-banner-concept.png)
 
 Energy Innovation is an annual event to promote collaboration and knowledge-exchange among industry experts and the research community. The event provides a platform to showcase EMA-funded R&D projects undertaken by industry and the research community over the years.
 
