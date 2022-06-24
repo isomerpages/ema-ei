@@ -458,6 +458,12 @@ $desktop: 960px + (2 * $gap) !default;
 	width: 100%;
 }
 
+.workshops.leaders-heading{
+	text-align: left;
+	font-weight: 700;
+	font-size: 1.25rem;
+}
+
 
 #main-content .bp-container .is-hidden-mobile .is-half .mse-infopic-media-left,
 #main-content .bp-container .is-hidden-mobile .is-half .mse-infopic-media-right{
