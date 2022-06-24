@@ -28,11 +28,14 @@ In this sharing session, you will hear from Keppel Infrastructure, National Univ
       </td>
     </tr>
     <tr>
-      <td><img src="/images/speakers/subodh-mhaisalkar.jpg" alt="Subodh Mhaisalkar" width="180" height="240" /></td>
+      <td><img src="/images/speakers/subodh-mhaisalkar.jpg" alt="Subodh G Mhaisalkar" width="180" height="240" /></td>
       <td>
-        <p><span class="speaker-name">Prof. Subodh Mhaisalkar</span><br>
-        Chair/Executive Director, Energy Research Institute at NTU (ERI@N)<br>
-        Ecolabs</p>
+        <p><span class="speaker-name">Dr. Subodh G Mhaisalkar</span><br>
+        Associate Vice President (Strategy & Partnership)<br>
+        President’s Chair Professor (Energy)<br>
+        Executive Director<br>
+        Energy Research Institute @ NTU (ERI@N)<br>
+        Nanyang Technological University</p>
       </td>
     </tr>
   </table>
