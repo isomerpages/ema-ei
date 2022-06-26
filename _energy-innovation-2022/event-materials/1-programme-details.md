@@ -49,7 +49,9 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
             <td>2:00pm</td>
             <td colspan="2">
                 <p class="programme-topic">Opening Address </p>
-                <p>Ms Low Yen Ling, Minister of State for Ministry of Culture, Community and Youth and Ministry of Trade and Industry</p>
+                <p>Ms Low Yen Ling<br>
+                Minister of State for Ministry of Culture, Community and Youth and<br>
+                Ministry of Trade and Industry</p>
             </td>
         </tr>
         <tr>
@@ -61,24 +63,32 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
         <tr>
             <td>2:30pm</td>
             <td colspan="2">
-                <p class="programme-topic">Keynote Address: Commercialising Technologies for Singapore’s Clean Energy Transition</p>
+                <p class="programme-topic">Keynote Address:<br>
+                Commercialising Technologies for Singapore&apos;s Clean Energy Transition</p>
             </td>
         </tr>
         <tr>
             <td>2:50pm</td>
             <td colspan="2">
-                <p class="programme-topic">Discussion Panel 1: Global & Regional Outlook, Trends and Drivers for Clean Energy Industry</p>
+                <p class="programme-topic">Discussion Panel 1:<br>
+                Global &amp; Regional Outlook, Trends and Drivers for Clean Energy Industry</p>
                 <p>Mr Ngiam Shih Chun<br>
-                <span class="speaker-designation">Chief Executive, Energy Market Authority</span></p>
+                <span class="speaker-designation">Chief Executive<br>
+                Energy Market Authority</span></p>
                 <p>Ms Cindy Lim<br>
-                <span class="speaker-designation">Chief Executive Officer, Keppel Infrastructure Holdings</span></p>
+                <span class="speaker-designation">Chief Executive Officer<br>
+                Keppel Infrastructure Holdings</span></p>
                 <p>Mr Tan Chong Meng<br>
-                <span class="speaker-designation">Group Chief Executive Officer, PSA International</span></p>
+                <span class="speaker-designation">Group Chief Executive Officer<br>
+                PSA International</span></p>
                 <p>Professor Chua Kee Chaing<br>
-                <span class="speaker-designation">President, Singapore Institute of Technology</span></p>
+                <span class="speaker-designation">President<br>
+                Singapore Institute of Technology</span></p>
                 <p><u>Moderator</u><br>
-                Professor Chua Kee Chaing<br>
-                <span class="speaker-designation">Director (National Energy Transformation Office), Energy Market Authority</span></p>
+                Mr Toh Wee Khiang<br>
+                <span class="speaker-designation">Director<br>
+                (National Energy Transformation Office)<br>
+                Energy Market Authority</span></p>
             </td>
         </tr>
         <tr>
