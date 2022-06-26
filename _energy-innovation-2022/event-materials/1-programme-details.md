@@ -112,9 +112,10 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
                 A*STAR</span></p>
                 <p><u>Moderator</u><br>
                 Dr Chiam Sing Yang<br>
-                <span class="speaker-designation">Deputy Executive Director<br>
-                (Institute of Materials Research and Engineering) &amp;<br>
-                Director<br>(Optics &amp; Electronics Division)<br>
+                <span class="speaker-designation">Director<br>
+                Singapore Battery Consortium<br>
+                Deputy Executive Director<br>
+                Institute of Materials Research & Engineering<br>
                 A*STAR</span></p>
             </td>
         </tr>
@@ -130,6 +131,12 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
                 <span class="speaker-designation">Senior Director<br>
                 Strategic Collaboration &amp; Partnership<br>
                 National University of Singapore</span></p>
+                <p>Dr. Subodh G Mhaisalkar<br>
+                <span class="speaker-designation">Associate Vice President (Strategy & Partnership)<br>
+                President’s Chair Professor (Energy)<br>
+                Executive Director<br>
+                Energy Research Institute @ NTU (ERI@N)<br>
+                Nanyang Technological University</span></p>
             </td>
             <td>
                 <p class="programme-topic">Workshop 2:<br>Capturing Clean Energy Opportunities in Asia</p>
@@ -143,7 +150,7 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
                 <p>Mr Andrew Craig<br>
                 <span class="speaker-designation">Associate Director<br>
                 (Infrastructure Advisory)<br>
-                KPMG </span></p>
+                KPMG</span></p>
             </td>
         </tr>
         <tr>

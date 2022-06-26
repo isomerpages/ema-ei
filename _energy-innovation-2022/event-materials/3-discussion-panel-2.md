@@ -45,7 +45,7 @@ Rising demand for clean energy solutions have spurred greater interest in clean 
 	  <td><img src="/images/speakers/chiam-sing-yang.jpg" alt="Sing Yang Chiam" width="180" height="240" /></td>
 	  <td>
 	    <p><span class="moderator-text">Moderator</span><br>
-		<span class="speaker-name">Dr. Sing Yang Chiam</span><br>
+		<span class="speaker-name">Dr. Chiam Sing Yang</span><br>
 		Director<br>
 		Singapore Battery Consortium<br>
 		Deputy Executive Director<br>
