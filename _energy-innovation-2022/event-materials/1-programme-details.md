@@ -94,18 +94,28 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
         <tr>
             <td>3:40pm</td>
             <td colspan="2">
-                <p class="programme-topic">Discussion Panel 2: Pathways and Strategies for Technology Translation &amp; Commercialisation</p>
+                <p class="programme-topic">Discussion Panel 2:<br>
+                Pathways and Strategies for Technology Translation &amp; Commercialisation</p>
                 <p>Mr Ralph Foong<br>
-                <span class="speaker-designation">Deputy Chief Executive (Energy Planning &amp; Development Division &amp; Corporate Services Group), Energy Market Authority</span></p>
+                <span class="speaker-designation">Deputy Chief Executive<br>
+                (Energy Planning &amp; Development Division &amp; Corporate Services Group)<br>
+                Energy Market Authority</span></p>
                 <p>Mr Sharad Somani<br>
-                <span class="speaker-designation">Executive Director (ASPAC Head of Infrastructure), KPMG</span></p>
+                <span class="speaker-designation">Executive Director<br>
+                (ASPAC Head of Infrastructure)<br>
+                KPMG</span></p>
                 <p>Mr Nazhar Adnan<br>
-                <span class="speaker-designation">Director (Strategic Development), Temasek Holdings</span></p>
+                <span class="speaker-designation">Director<br>(Strategic Development)<br>
+                Temasek Holdings</span></p>
                 <p>Professor Tan Sze Wee<br>
-                <span class="speaker-designation">Assistant Chief Executive (Enterprise), A*STAR</span></p>
+                <span class="speaker-designation">Assistant Chief Executive<br>(Enterprise)<br>
+                A*STAR</span></p>
                 <p><u>Moderator</u><br>
                 Dr Chiam Sing Yang<br>
-                <span class="speaker-designation">Deputy Executive Director (Institute of Materials Research and Engineering) &amp; Director (Optics &amp; Electronics Division), A*STAR</span></p>
+                <span class="speaker-designation">Deputy Executive Director<br>
+                (Institute of Materials Research and Engineering) &amp;<br>
+                Director<br>(Optics &amp; Electronics Division)<br>
+                A*STAR</span></p>
             </td>
         </tr>
         <tr>
@@ -113,10 +123,12 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
             <td>
                 <p class="programme-topic">Workshop 1:<br>Technology Translation in Energy Transition</p>
                 <p>Mr Poh Tiong Keng<br>
-                <span class="speaker-designation">GM, Corporate Innovation<br>
+                <span class="speaker-designation">GM<br>
+                Corporate Innovation<br>
                 KepInfra Energy Transition Centre</span></p>
                 <p>Mr George Loh<br>
-                <span class="speaker-designation">Senior Director, Strategic Collaboration &amp; Partnership<br>
+                <span class="speaker-designation">Senior Director<br>
+                Strategic Collaboration &amp; Partnership<br>
                 National University of Singapore</span></p>
             </td>
             <td>
@@ -125,17 +137,20 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
                 <span class="speaker-designation">Senior Lead<br>
                 Infrastructure Asia</span></p>
                 <p>Mr Steve Peters<br>
-                <span class="speaker-designation">Senior Energy Specialist (Waste to Energy)<br>
+                <span class="speaker-designation">Senior Energy Specialist<br>
+                (Waste to Energy)<br>
                 Asian Development Bank</span></p>
                 <p>Mr Andrew Craig<br>
-                <span class="speaker-designation">Associate Director (Infrastructure Advisory)<br>
+                <span class="speaker-designation">Associate Director<br>
+                (Infrastructure Advisory)<br>
                 KPMG </span></p>
             </td>
         </tr>
         <tr>
             <td>5:25pm</td>
             <td colspan="2">
-                <p class="programme-topic">Start-up Showcase: Sharing of Local Technology & Research</p>
+                <p class="programme-topic">Start-up Showcase:<br>
+                Sharing of Local Technology & Research</p>
             </td>
         </tr>
         <tr>
