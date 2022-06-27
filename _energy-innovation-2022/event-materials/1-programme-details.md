@@ -73,22 +73,17 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
                 <p class="programme-topic">Discussion Panel 1:<br>
                 Global &amp; Regional Outlook, Trends and Drivers for Clean Energy Industry</p>
                 <p>Mr Ngiam Shih Chun<br>
-                <span class="speaker-designation">Chief Executive<br>
-                Energy Market Authority</span></p>
+                <span class="speaker-designation">Chief Executive, Energy Market Authority</span></p>
                 <p>Ms Cindy Lim<br>
-                <span class="speaker-designation">Chief Executive Officer<br>
-                Keppel Infrastructure Holdings</span></p>
+                <span class="speaker-designation">Chief Executive Officer, Keppel Infrastructure Holdings</span></p>
                 <p>Mr Tan Chong Meng<br>
-                <span class="speaker-designation">Group Chief Executive Officer<br>
-                PSA International</span></p>
+                <span class="speaker-designation">Group Chief Executive Officer, PSA International</span></p>
                 <p>Professor Chua Kee Chaing<br>
-                <span class="speaker-designation">President<br>
-                Singapore Institute of Technology</span></p>
+                <span class="speaker-designation">President, Singapore Institute of Technology</span></p>
                 <p><u>Moderator</u><br>
                 Mr Toh Wee Khiang<br>
                 <span class="speaker-designation">Director<br>
-                (National Energy Transformation Office)<br>
-                Energy Market Authority</span></p>
+                (National Energy Transformation Office), Energy Market Authority</span></p>
             </td>
         </tr>
         <tr>
@@ -97,26 +92,17 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
                 <p class="programme-topic">Discussion Panel 2:<br>
                 Pathways and Strategies for Technology Translation &amp; Commercialisation</p>
                 <p>Mr Ralph Foong<br>
-                <span class="speaker-designation">Deputy Chief Executive<br>
-                (Energy Planning &amp; Development Division &amp; Corporate Services Group)<br>
-                Energy Market Authority</span></p>
+                <span class="speaker-designation">Deputy Chief Executive, (Energy Planning &amp; Development Division &amp; Corporate Services Group), Energy Market Authority</span></p>
                 <p>Mr Sharad Somani<br>
-                <span class="speaker-designation">Executive Director<br>
-                (ASPAC Head of Infrastructure)<br>
-                KPMG</span></p>
+                <span class="speaker-designation">Executive Director/Partner, (ASPAC Head of Infrastructure), KPMG</span></p>
                 <p>Mr Nazhar Adnan<br>
-                <span class="speaker-designation">Director<br>(Strategic Development)<br>
-                Temasek Holdings</span></p>
+                <span class="speaker-designation">Director, (Strategic Development), Temasek Holdings</span></p>
                 <p>Professor Tan Sze Wee<br>
-                <span class="speaker-designation">Assistant Chief Executive<br>(Enterprise)<br>
-                A*STAR</span></p>
+                <span class="speaker-designation">Assistant Chief Executive, (Enterprise), A*STAR</span></p>
                 <p><u>Moderator</u><br>
                 Dr Chiam Sing Yang<br>
-                <span class="speaker-designation">Director<br>
-                Singapore Battery Consortium<br>
-                Deputy Executive Director<br>
-                Institute of Materials Research & Engineering<br>
-                A*STAR</span></p>
+                <span class="speaker-designation">Director, Singapore Battery Consortium<br>
+                Deputy Executive Director, Institute of Materials Research & Engineering, A*STAR</span></p>
             </td>
         </tr>
         <tr>
@@ -124,7 +110,7 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
             <td>
                 <p class="programme-topic">Workshop 1:<br>Technology Translation in Energy Transition</p>
                 <p>Mr Poh Tiong Keng<br>
-                <span class="speaker-designation">GM<br>
+                <span class="speaker-designation">General Manager<br>
                 Corporate Innovation<br>
                 KepInfra Energy Transition Centre</span></p>
                 <p>Mr George Loh<br>
