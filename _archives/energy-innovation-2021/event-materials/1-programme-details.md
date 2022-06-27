@@ -1,6 +1,6 @@
 ---
 title: Programme Details
-permalink: /energy-innovation-2021/event-materials/programme-details/
+permalink: /archives/energy-innovation-2021/event-materials/programme-details/
 third_nav_title: Energy Innovation 2021
 ---
 ![Energy Innovation 2021](/images/banner-concept.png)

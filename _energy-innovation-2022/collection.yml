@@ -1,0 +1,11 @@
+collections:
+  energy-innovation-2022:
+    output: true
+    order:
+      - energy-innovation-2022/event-materials/1-programme-details.md
+      - energy-innovation-2022/event-materials/2-discussion-panel-1.md
+      - energy-innovation-2022/event-materials/3-discussion-panel-2.md
+      - energy-innovation-2022/event-materials/4-workshop-1.md
+      - energy-innovation-2022/event-materials/5-workshop-2.md
+      - energy-innovation-2022/event-materials/6-startups-showcase.md
+#      - virtual-event.md
