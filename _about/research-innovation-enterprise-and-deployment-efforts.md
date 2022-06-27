@@ -1,6 +1,6 @@
 ---
-title: Research, Innovation, Enterprise and Deployment Efforts
-permalink: /about/research-innovation-enterprise-and-deployment-efforts/
+title: Research, Innovation, Enterprise and Deployment
+permalink: /about/research-innovation-enterprise-and-deployment/
 date: 2021-07-10 02:00:00
 ---
 Climate change is a global existential threat and Singapore is committed to do our part to peak emissions by 2030 and achieve net-zero carbon emissions by or around mid- century. 
