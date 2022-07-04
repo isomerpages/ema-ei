@@ -65,6 +65,8 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
             <td colspan="2">
                 <p class="programme-topic">Keynote Address:<br>
                 Commercialising Technologies for Singapore&apos;s Clean Energy Transition</p>
+                <p>Mr Tan Chong Meng<br>
+                Group Chief Executive Officer, PSA International</p>
             </td>
         </tr>
         <tr>
