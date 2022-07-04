@@ -95,7 +95,7 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
                 <p>Mr Ralph Foong<br>
                 <span class="speaker-designation">Deputy Chief Executive (Energy Planning &amp; Development Division &amp; Corporate Services Group), Energy Market Authority</span></p>
                 <p>Mr Sharad Somani<br>
-                <span class="speaker-designation">Executive Director/Partner (ASPAC Head of Infrastructure), KPMG</span></p>
+                <span class="speaker-designation">Executive Director/Partner (ASPAC Head of Infrastructure), KPMG Services</span></p>
                 <p>Mr Nazhar Adnan<br>
                 <span class="speaker-designation">Director (Strategic Development), Temasek Holdings</span></p>
                 <p>Professor Tan Sze Wee<br>
