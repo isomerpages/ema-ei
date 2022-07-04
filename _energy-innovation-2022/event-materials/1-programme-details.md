@@ -50,8 +50,8 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
             <td colspan="2">
                 <p class="programme-topic">Opening Address </p>
                 <p>Ms Low Yen Ling<br>
-                Minister of State for Ministry of Culture, Community and Youth and<br>
-                Ministry of Trade and Industry</p>
+                <span class="speaker-designation">Minister of State for Ministry of Culture, Community and Youth and<br>
+                    Ministry of Trade and Industry</span></p>
             </td>
         </tr>
         <tr>
@@ -66,7 +66,7 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
                 <p class="programme-topic">Keynote Address:<br>
                 Commercialising Technologies for Singapore&apos;s Clean Energy Transition</p>
                 <p>Mr Tan Chong Meng<br>
-                Group Chief Executive Officer, PSA International</p>
+                <span class="speaker-designation">Group Chief Executive Officer, PSA International</span></p>
             </td>
         </tr>
         <tr>
@@ -145,7 +145,7 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
         <tr>
             <td>6:00pm</td>
             <td colspan="2">
-                <p class="programme-topic">Closing and Post-event Networking</p>
+                <p class="programme-topic">Post-event Networking</p>
             </td>
         </tr>
     </table>
