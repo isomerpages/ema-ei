@@ -3,7 +3,7 @@ title: Startups Showcase
 permalink: /energy-innovation-2022/event-materials/startups-showcase/
 third_nav_title: Energy Innovation 2022
 ---
-Startups are crucial elements of the energy ecosystem. They bring with them innovative solutions and business models to develop the ecosystem. Hear pitches from six start-ups from the EMA-Envision start-up partnership and discover how SMEs are developing their capabilities in renewable energy, urban energy efficiency and low carbon solutions.<br>
+Startups are crucial elements of the energy ecosystem. They bring with them innovative solutions and business models to develop the ecosystem. Hear pitches from six start-ups from the EMA-Envision start-up partnership and discover how SMEs are developing their capabilities in renewable energy, urban energy efficiency and low carbon solutions.<br><br>
 More info on the Net Zero Startup Challenge: <a href="/files/EI2022/EI2022_Startup Showcase_Envision.pdf">1.13MB<span class="sgds-icon sgds-icon-external"></span></a>
 
 <div style="text-align: center;"></div>
