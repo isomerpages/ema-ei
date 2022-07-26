@@ -16,7 +16,7 @@ In this sharing session, you will hear from Keppel Infrastructure, National Univ
       <td>
         <p><span class="speaker-name">Mr Poh Tiong Keng</span><br>
         General Manager (Corporate Innovation)<br>
-        KepInfra Energy Transition Centre<br>
+        KepInfra Energy Transition Centre<br><br>
         <a href="/files/EI2022/EMA EI2022_Workshop 1_Keppel.pdf">2.51MB<span class="sgds-icon sgds-icon-external"></span></a></p>
       </td>
     </tr>
@@ -25,7 +25,7 @@ In this sharing session, you will hear from Keppel Infrastructure, National Univ
       <td>
         <p><span class="speaker-name">Mr George Loh</span><br>
         Senior Vice President<br>
-        National University of Singapore<br>
+        National University of Singapore<br><br>
         <a href="/files/EI2022/EMA EI2022_Workshop 1_NUS.pdf">2.16MB<span class="sgds-icon sgds-icon-external"></span></a></p>
       </td>
     </tr>
@@ -37,7 +37,7 @@ In this sharing session, you will hear from Keppel Infrastructure, National Univ
         President’s Chair Professor (Energy)<br>
         Executive Director<br>
         Energy Research Institute @ NTU (ERI@N)<br>
-        Nanyang Technological University<br>
+        Nanyang Technological University<br><br>
         <a href="/files/EI2022/EMA EI2022_Workshop 1_NTU.pdf">2.9MB<span class="sgds-icon sgds-icon-external"></span></a></p>
       </td>
     </tr>
