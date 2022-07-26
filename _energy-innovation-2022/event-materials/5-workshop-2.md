@@ -16,7 +16,7 @@ Speakers from Infrastructure Asia, KPMG and Asian Development Bank will share on
       <td>
         <p><span class="speaker-name">Mr Andrew Craig</span><br>
         Associate Director (Infrastructure Advisory)<br>
-        KPMG<br>
+        KPMG<br><br>
        <a href="/files/EI2022/EI2022_KPMG_Workshop 2.pdf">628KB<span class="sgds-icon sgds-icon-external"></span></a></p>
       </td>
     </tr>
@@ -25,7 +25,7 @@ Speakers from Infrastructure Asia, KPMG and Asian Development Bank will share on
       <td>
         <p><span class="speaker-name">Mr Steve Peters</span><br>
         Senior Energy Specialist (Waste to Energy)<br>
-        Asian Development Bank<br>
+        Asian Development Bank<br><br>
        <a href="/files/EI2022/EI2022_ADB_Workshop 2.pdf">4.33MB<span class="sgds-icon sgds-icon-external"></span></a></p>
       </td>
     </tr>
@@ -34,7 +34,7 @@ Speakers from Infrastructure Asia, KPMG and Asian Development Bank will share on
       <td>
         <p><span class="speaker-name">Ms Gayle Tan</span><br>
         Senior Lead<br>
-        Infrastructure Asia<br>
+        Infrastructure Asia<br><br>
        <a href="/files/EI2022/EI2022_InfraAsia_Workshop 2.pdf">1.52MB<span class="sgds-icon sgds-icon-external"></span></a></p>
       </td>
     </tr>
