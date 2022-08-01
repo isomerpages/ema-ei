@@ -5,8 +5,9 @@ third_nav_title: Energy Innovation 2021
 ---
 ![Energy Innovation 2021](/images/banner-concept.png)
 
-Energy Innovation is an annual event to promote collaboration and knowledge-exchange among industry experts and the research community. The event provides a platform to showcase EMA-funded R&D projects undertaken by industry and the research community over the years.<br><br>
-<figure class="mse-infopic-media-left is-16by9"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=Mi79l-RmQnc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+Energy Innovation is an annual event to promote collaboration and knowledge-exchange among industry experts and the research community. The event provides a platform to showcase EMA-funded R&D projects undertaken by industry and the research community over the years.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Mi79l-RmQnc" title="YouTube video player" frameborder="0" allow="accelerometer; aoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="organiser-logos-container">
     <div class="organiser-wrapper">
