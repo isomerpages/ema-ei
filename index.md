@@ -40,9 +40,9 @@ sections:
   - infopic:
       title: EI 2022 Highlights
       subtitle: Video Showcase on
-      description: <p class="mse-none">Energy Innovation is an annual event to promote collaboration and knowledge exchange among industry experts and the research community. The event provides a platform to showcase EMA-funded R&D projects undertaken by industry and the research community over the years.</p><a href="energy-innovation-2022/event-materials/programme-details/" target="_blank" rel="noreferrer" class="bp-sec-button margin--top padding--bottom"> <div><span>Find out more</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i> </div> </a><figure class="mse-infopic-media-right is-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/MJUnJbZHXo8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+      description: <p class="mse-none">Energy Innovation is an annual event to promote collaboration and knowledge exchange among industry experts and the research community. The event provides a platform to showcase EMA-funded R&D projects undertaken by industry and the research community over the years.</p><a href="energy-innovation-2022/event-materials/programme-details/" target="_blank" rel="noreferrer" class="bp-sec-button margin--top padding--bottom"> <div><span>Find out more</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i> </div> </a><figure class="mse-infopic-media-right is-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/MJUnJbZHXo8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
       url: https://www.youtube.com/watch?v=MJUnJbZHXo8
-      image: images/ei2022-banner.png
+      image: images/EI2022designconcept.png
       alt: EI 2022 Highlights
   - resources:
       title: "Energy Innovation Showcase"
