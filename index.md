@@ -26,7 +26,7 @@ sections:
   - infopic:
       title: Digitalisation
       subtitle: Video Showcase on
-      description: <p class="mse-none">Digitalisation plays a big role in shaping tomorrow's energy future. We are working with the industry and research community to co-create innovative solutions to digitalise the energy sector to improve productivity and efficiency, maintain grid resilience and achieve carbon abatement.</p><figure class="mse-infopic-media-right is-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/8GeVbacC9X8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+      description: <p class="mse-none">Digitalisation plays a big role in shaping tomorrow's energy future. We are working with the industry and research community to co-create innovative solutions to digitalise the energy sector to improve productivity and efficiency, maintain grid resilience and achieve carbon abatement.</p><figure class="mse-infopic-media-right is-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/Mi79l-RmQnc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
       url: https://www.youtube.com/watch?v=8GeVbacC9X8
       image: images/digitalisation-youtube.png
       alt: Digitalisation
@@ -42,7 +42,7 @@ sections:
       subtitle: Video Showcase on
       description: <p class="mse-none">Energy Innovation is an annual event to promote collaboration and knowledge exchange among industry experts and the research community. The event provides a platform to showcase EMA-funded R&D projects undertaken by industry and the research community over the years.</p><a href="energy-innovation-2022/event-materials/programme-details/" target="_blank" rel="noreferrer" class="bp-sec-button margin--top padding--bottom"> <div><span>Find out more</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i> </div> </a><figure class="mse-infopic-media-right is-16by9"><iframe width="560" height="315" src="https://youtube.com/embed/MJUnJbZHXo8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
       url: https://www.youtube.com/watch?v=MJUnJbZHXo8
-      image: images/banner-concept.png
+      image: images/ei2022-banner.png
       alt: EI 2022 Highlights
   - resources:
       title: "Energy Innovation Showcase"
