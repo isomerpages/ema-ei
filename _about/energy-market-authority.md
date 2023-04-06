@@ -5,7 +5,7 @@ date: 2021-07-10 01:00:00
 ---
 
 <div class="ema-logo-wrapper">
-	<img src="/images/ema-logo-resize.jpg" alt="Energy Market Authority logo" />
+	<img src="/images/EMA-Logo-2023-Web.png" alt="Energy Market Authority logo" />
 </div>
 **The Energy Market Authority**
 
