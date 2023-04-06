@@ -13,7 +13,7 @@ Energy Innovation is an annual event to promote collaboration and knowledge-exch
     <div class="organiser-wrapper">
         <p>Organised by:</p>
         <div class="logo-wrapper ema-logo">
-            <img src="/images/ema-logo-resize.jpg" alt="Energy Market Authority Logo"/>
+            <img src="/images/EMA-Logo-2023-Web.png" alt="Energy Market Authority Logo"/>
         </div>
     </div>
     <div class="partners-wrapper">
