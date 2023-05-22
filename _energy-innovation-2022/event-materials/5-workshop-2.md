@@ -26,7 +26,7 @@ Speakers from Infrastructure Asia, KPMG and Asian Development Bank will share on
         <p><span class="speaker-name">Mr Steve Peters</span><br>
         Senior Energy Specialist (Waste to Energy)<br>
         Asian Development Bank<br><br>
-       <a href="/files/EI2022/EI2022_ADB_Workshop2">4.33MB<span class="sgds-icon sgds-icon-external"></span></a></p>
+       <a href="/files/EI2022/EI2022_ADB_Workshop2.pdf">4.33MB<span class="sgds-icon sgds-icon-external"></span></a></p>
       </td>
     </tr>
     <tr>
