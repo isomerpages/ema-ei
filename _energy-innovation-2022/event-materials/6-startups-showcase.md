@@ -44,7 +44,6 @@ More info on the Net Zero Startup Challenge: <a href="/files/EI2022/EI2022_Start
 	  <td><img src="/images/startups/etavolt_v2.png" alt="EtaVolt" width="567" height="258" /></td>
 	  <td>EtaVolt is a deep tech spin-off from the Nanyang Technological University, poised to deliver effective solar photovoltaic lifecycle management and sustainable solutions to strive towards a circular PV economy, via both maximizing the energy generation capability for existing installed solar systems, and high purity raw materials recovery from decommissioned solar systems. EtaVolt enables the appropriate lifecycle management solutions to maximize the return on investment and reduce the levelized cost of energy for both existing and future solar asset owners and users, while striving towards a zero-carbon energy future.<br>
 		<br>
-		<a href="/files/EI2022/EI2022_EtaVolt.pdf">2.21MB<span class="sgds-icon sgds-icon-external"></span></a></td>
 	</tr>
   </table>
 </div>
